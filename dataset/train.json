@@ -1,0 +1,4630 @@
+[
+  {
+    "id": "completion227",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat betekent 'algemeen werk' bij de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Algemeen werk verwijst naar de taken die door de afdelingsvergaderingen worden vastgesteld en door de leden van een afdeling voor het tuinpark moeten worden uitgevoerd."
+      }
+    ]
+  },
+  {
+    "id": "completion26",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de missie van deze tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De missie van deze tuinvereniging is het bevorderen van tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion65",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de veiligheidsregels bij de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De veiligheidsregels bij de vereniging zijn ingesteld om ervoor te zorgen dat alle leden veilig kunnen tuinieren."
+      }
+    ]
+  },
+  {
+    "id": "completion160",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de procedure voor lidmaatschap bij de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De procedure voor lidmaatschap bij de tuinvereniging omvat het indienen van een aanvraag en het voldoen aan bepaalde voorwaarden."
+      }
+    ]
+  },
+  {
+    "id": "completion52",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de doelstellingen van VTV Water-Land?"
+      },
+      {
+        "role": "assistant",
+        "content": "De doelstellingen zijn het bevorderen van duurzaam tuinieren en het versterken van de gemeenschapszin."
+      }
+    ]
+  },
+  {
+    "id": "completion491",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de maximale oppervlakte van een tuinhuis volgens de bouwvoorschriften?"
+      },
+      {
+        "role": "assistant",
+        "content": "De oppervlakte van een tuinhuis mag niet meer bedragen dan maximaal 28 m², buitenwerks gemeten, met inbegrip van een bergplaats, waranda, serre en erker."
+      }
+    ]
+  },
+  {
+    "id": "completion463",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Waarop is de berekening van administratiekosten gebaseerd?"
+      },
+      {
+        "role": "assistant",
+        "content": "De berekening van administratiekosten is gebaseerd op een jaarlijks op te maken kostenberekening van de extra kosten die de administratie als gevolg van een begaan verzuim maakt."
+      }
+    ]
+  },
+  {
+    "id": "completion127",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de volledige naam van de BVV?"
+      },
+      {
+        "role": "assistant",
+        "content": "De volledige naam van de BVV is Bond van Volkstuinders."
+      }
+    ]
+  },
+  {
+    "id": "completion174",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe kunnen mensen zich aanmelden bij de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mensen moeten een aanvraag indienen en aan de lidmaatschapsvereisten voldoen."
+      }
+    ]
+  },
+  {
+    "id": "completion481",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wanneer wordt het bedrag van de geldlening aan een lid verstrekt?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het bedrag van de geldlening wordt pas verstrekt nadat naar het oordeel van het bondsbestuur aan alle voorwaarden is voldaan en het lid de overeenkomst van geldlening heeft ondertekend."
+      }
+    ]
+  },
+  {
+    "id": "completion513",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoeveel ruimte tussen vloer en plafond is minimaal nodig in een tuinhuis?"
+      },
+      {
+        "role": "assistant",
+        "content": "In de woon- en slaapkamers moet er minimaal 2,20 meter ruimte tussen vloer en plafond zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion217",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat wordt verstaan onder een 'nutstuin'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een nutstuin is een aan een lid op een tuinpark ter beschikking gestelde tuin, die als moestuin wordt gebruikt."
+      }
+    ]
+  },
+  {
+    "id": "completion189",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de procedure voor nieuw lidmaatschap?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een aanvraag indienen en voldoen aan de vereisten."
+      }
+    ]
+  },
+  {
+    "id": "completion8",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Waar streeft de vereniging naar?"
+      },
+      {
+        "role": "assistant",
+        "content": "De vereniging streeft naar het bevorderen van tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion144",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de stappen voor lidmaatschap bij de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De stappen voor lidmaatschap bij de vereniging zijn het indienen van een aanvraag en het voldoen aan de criteria voor lidmaatschap."
+      }
+    ]
+  },
+  {
+    "id": "completion372",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat houdt de algemene verplichting van leden in?"
+      },
+      {
+        "role": "assistant",
+        "content": "De algemene verplichting van leden houdt in dat zij de statuten, reglementen en besluiten moeten volgen, de belangen van de organisatie moeten beschermen, en alle andere verplichtingen moeten nakomen."
+      }
+    ]
+  },
+  {
+    "id": "completion250",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de 'Vroegop'?"
+      },
+      {
+        "role": "assistant",
+        "content": "De Vroegop is het officiële blad van de bond waarin alle officiële mededelingen worden gedaan."
+      }
+    ]
+  },
+  {
+    "id": "completion162",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat moet iemand doen om lid te worden van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Om lid te worden van de vereniging moet iemand een aanvraag indienen en voldoen aan de vastgestelde criteria."
+      }
+    ]
+  },
+  {
+    "id": "completion465",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie kan een geldlening aanvragen bij het Bouw- en Solidariteitsfonds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Zowel afdelingsbesturen als individuele leden kunnen een geldlening aanvragen bij het Bouw- en Solidariteitsfonds."
+      }
+    ]
+  },
+  {
+    "id": "completion61",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke veiligheidsmaatregelen gelden er bij de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bij de tuinvereniging gelden veiligheidsmaatregelen om de veiligheid van alle leden te garanderen."
+      }
+    ]
+  },
+  {
+    "id": "completion44",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe worden nieuwe leden verwelkomd bij VTV Water-Land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nieuwe leden worden verwelkomd met een introductiebijeenkomst en een rondleiding over het tuincomplex."
+      }
+    ]
+  },
+  {
+    "id": "completion219",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de definitie van een 'tuinpark' in de context van de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een tuinpark is het geheel van volkstuinen en/of nutstuinen dat een afdeling vormt."
+      }
+    ]
+  },
+  {
+    "id": "completion70",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de veiligheidsregels die de tuinvereniging volgt?"
+      },
+      {
+        "role": "assistant",
+        "content": "De veiligheidsregels die de tuinvereniging volgt, zijn bedoeld om de veiligheid van alle leden te waarborgen."
+      }
+    ]
+  },
+  {
+    "id": "completion246",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de werkzaamheden die vallen onder 'algemeen werk'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het zijn de taken die door afdelingsvergaderingen worden goedgekeurd en door afdelingleden voor het tuinpark moeten worden uitgevoerd."
+      }
+    ]
+  },
+  {
+    "id": "completion362",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de verplichtingen van leden binnen deze groep?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leden dienen zich te houden aan de statuten en reglementen, de belangen van de organisatie te beschermen, en alle andere verplichtingen die door de organisatie zijn vastgesteld na te leven."
+      }
+    ]
+  },
+  {
+    "id": "completion310",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is een 'constructie' zoals vermeld in de regels?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een constructie kan een accukist, broeibak, gasflessenkist, gereedschapskist, kweekkas, pergola, schuur, tuinhuis, (t.v.-)antenne, windscherm of zonnepaneel zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion59",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de veiligheidsrichtlijnen bij VTV Water-Land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Veiligheidsrichtlijnen omvatten het dragen van beschermende kleding, zorgvuldig omgaan met gereedschap, en het naleven van brandveiligheidsregels."
+      }
+    ]
+  },
+  {
+    "id": "completion308",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt 'oprichting' gedefinieerd in de statuten?"
+      },
+      {
+        "role": "assistant",
+        "content": "Oprichtingen kunnen accukisten, broeibakken, gasflessenkisten, gereedschapskisten, kweekkassen, pergola's, schuren, tuinhuisjes, (t.v.-)antennes, windschermen of zonnepanelen zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion198",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe kan je toegelaten worden als lid van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Je kunt toegelaten worden als lid van de vereniging door een aanvraag te indienen en te voldoen aan de gestelde criteria."
+      }
+    ]
+  },
+  {
+    "id": "completion186",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is vereist om lid te worden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een aanvraag doen en voldoen aan de voorwaarden."
+      }
+    ]
+  },
+  {
+    "id": "completion190",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe meld je je aan als lid?"
+      },
+      {
+        "role": "assistant",
+        "content": "Door een aanvraag te doen en aan de vereisten te voldoen."
+      }
+    ]
+  },
+  {
+    "id": "completion258",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt 'woonadres' gedefinieerd in deze context?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het woonadres is de vaste woon- en verblijfplaats van een lid, geregistreerd naar postcode en huisnummer en - waar van toepassing - aangevuld met etagenummer of appartementsnummer."
+      }
+    ]
+  },
+  {
+    "id": "completion493",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe ver moet een tuinhuis minimaal van de grens van een bouwperceel staan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een tuinhuis mag nergens dichter bij de grens van een bouwperceel worden gebouwd dan 2,50 m. Als de grens door een sloot wordt gevormd, moet deze afstand tenminste 3,50 m bedragen, gemeten uit de waterlijn."
+      }
+    ]
+  },
+  {
+    "id": "completion443",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat gebeurt er met de verzekeringspenningen van een bouwsel tijdens de looptijd van een geldlening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het lid draagt voor de duur van de geldlening aan de bond de verzekeringspenningen over die de betreffende verzekeringsmaatschappij in geval van brand of storm uitkeert."
+      }
+    ]
+  },
+  {
+    "id": "completion316",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is een 'tuinhuisje' volgens de regels?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een tuinhuisje omvat een accukist, broeibak, gasflessenkist, gereedschapskist, kweekkas, pergola, schuur, tuinhuis, (t.v.-)antenne, windscherm of zonnepaneel."
+      }
+    ]
+  },
+  {
+    "id": "completion311",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat valt onder 'gebouw' in de statuten?"
+      },
+      {
+        "role": "assistant",
+        "content": "Onder gebouw vallen een accukist, broeibak, gasflessenkist, gereedschapskist, kweekkas, pergola, schuur, tuinhuis, (t.v.-)antenne, windscherm of zonnepaneel."
+      }
+    ]
+  },
+  {
+    "id": "completion408",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Uit hoeveel leden bestaat het bondsbestuur minimaal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het bondsbestuur bestaat uit ten minste vijf meerderjarige personen."
+      }
+    ]
+  },
+  {
+    "id": "completion402",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie kan het lidmaatschap namens de Bond van Volkstuinders opzeggen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het opzeggen van het lidmaatschap door de bond geschiedt schriftelijk door het bondsbestuur, al dan niet op voordracht van een afdelingsbestuur."
+      }
+    ]
+  },
+  {
+    "id": "completion511",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoeveel vrije ruimte moet er zijn in de woon- en slaapkamers van een tuinhuis?"
+      },
+      {
+        "role": "assistant",
+        "content": "De vrije ruimte tussen vloer en plafond moet ten minste 2,20 meter zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion96",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de taken van de secretaris tijdens een bestuursvergadering?"
+      },
+      {
+        "role": "assistant",
+        "content": "De secretaris notuleert de vergadering, houdt de agenda bij, en verzorgt de correspondentie."
+      }
+    ]
+  },
+  {
+    "id": "completion449",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat gebeurt er als het bondsbestuur een verzoek om geldlening van een lid afwijst?"
+      },
+      {
+        "role": "assistant",
+        "content": "Indien het bondsbestuur het verzoek om een geldlening afwijst, doet het hiervan met redenen schriftelijk mededeling aan het lid. Van dit besluit van het bondsbestuur staat geen beroep open."
+      }
+    ]
+  },
+  {
+    "id": "completion317",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat wordt verstaan onder 'structuur' in deze context?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een structuur kan een accukist, broeibak, gasflessenkist, gereedschapskist, kweekkas, pergola, schuur, tuinhuis, (t.v.-)antenne, windscherm of zonnepaneel zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion114",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat wordt er besproken tijdens de jaarlijkse ledenvergadering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tijdens de jaarlijkse ledenvergadering worden het jaarverslag, de begroting, en beleidsplannen besproken en goedgekeurd."
+      }
+    ]
+  },
+  {
+    "id": "completion157",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat moet je doen om lid te worden van de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Om lid te worden van de tuinvereniging moet je een aanvraag invullen en voldoen aan de gestelde lidmaatschapscriteria."
+      }
+    ]
+  },
+  {
+    "id": "completion307",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is een 'constructie' zoals beschreven in de regels?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een constructie kan een accukist, broeibak, gasflessenkist, gereedschapskist, kweekkas, pergola, schuur, tuinhuis, (t.v.-)antenne, windscherm of zonnepaneel zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion318",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is een 'oprichtingsobject' volgens de regels?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een oprichtingsobject kan een accukist, broeibak, gasflessenkist, gereedschapskist, kweekkas, pergola, schuur, tuinhuis, (t.v.-)antenne, windscherm of zonnepaneel zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion416",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe verloopt de stemming over personen in de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "De stemming over personen gebeurt schriftelijk met gesloten stembriefjes, tenzij de vergadering bij acclamatie aangeeft dat men geen schriftelijke stemming nodig acht."
+      }
+    ]
+  },
+  {
+    "id": "completion512",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de vereiste minimale plafondhoogte voor woon- en slaapkamers in een tuinhuis?"
+      },
+      {
+        "role": "assistant",
+        "content": "De vereiste minimale hoogte tussen vloer en plafond is 220 centimeter."
+      }
+    ]
+  },
+  {
+    "id": "completion32",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de belangrijkste doelstelling van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De belangrijkste doelstelling van de vereniging is het bevorderen van tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion384",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke zekerheid geeft een lid aan de bond met betrekking tot zijn bouwsels en beplantingen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het lid geeft zijn bouwsels en beplantingen tot meerdere zekerheid aan de bond en verleent een onherroepelijke machtiging om tot verkoop of verwijdering over te gaan bij niet-nakoming van verplichtingen."
+      }
+    ]
+  },
+  {
+    "id": "completion29",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat probeert de vereniging te bereiken?"
+      },
+      {
+        "role": "assistant",
+        "content": "De vereniging probeert het tuinieren te bevorderen en biedt faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion15",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat probeert de tuinvereniging te bereiken?"
+      },
+      {
+        "role": "assistant",
+        "content": "De tuinvereniging probeert het tuinieren te bevorderen en faciliteiten en ondersteuning aan haar leden te bieden."
+      }
+    ]
+  },
+  {
+    "id": "completion163",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke stappen moet iemand volgen om lid te worden van de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Iemand moet een aanvraag indienen en voldoen aan de lidmaatschapscriteria om lid te worden van de tuinvereniging."
+      }
+    ]
+  },
+  {
+    "id": "completion360",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de rol van leden binnen deze organisatie?"
+      },
+      {
+        "role": "assistant",
+        "content": "De rol van leden omvat het naleven van statuten en reglementen, het beschermen van de belangen van de organisatie, en het vervullen van alle andere verplichtingen die zijn vastgesteld."
+      }
+    ]
+  },
+  {
+    "id": "completion117",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat gebeurt er op de jaarlijkse bijeenkomst van leden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Op de jaarlijkse bijeenkomst van leden worden het jaarverslag, de begroting, en beleidsplannen besproken en goedgekeurd."
+      }
+    ]
+  },
+  {
+    "id": "completion141",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke stappen moet iemand volgen om lid te worden van de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Iemand moet een aanvraag indienen en voldoen aan de lidmaatschapscriteria om lid te worden van de tuinvereniging."
+      }
+    ]
+  },
+  {
+    "id": "completion281",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie vormen het dagelijks bestuur van de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het dagelijks bestuur bestaat uit de voorzitter, de secretaris en de penningmeester en/of één of meer andere leden van het bondsbestuur."
+      }
+    ]
+  },
+  {
+    "id": "completion78",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de veiligheidsvoorschriften die bij de tuinvereniging gelden?"
+      },
+      {
+        "role": "assistant",
+        "content": "De veiligheidsvoorschriften die bij de tuinvereniging gelden, zijn erop gericht een veilige omgeving te creëren."
+      }
+    ]
+  },
+  {
+    "id": "completion266",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de betekenis van het 'woonadres' in deze context?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het woonadres is de vaste woon- en verblijfplaats van een lid, geregistreerd naar postcode en huisnummer en - waar van toepassing - aangevuld met etagenummer of appartementsnummer."
+      }
+    ]
+  },
+  {
+    "id": "completion231",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de taken die onder 'algemeen werk' vallen binnen de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Algemeen werk betreft de door afdelingsvergaderingen goedgekeurde taken die door afdelingleden voor het tuinpark moeten worden uitgevoerd."
+      }
+    ]
+  },
+  {
+    "id": "completion306",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat valt er onder 'opbouw' volgens de statuten?"
+      },
+      {
+        "role": "assistant",
+        "content": "Onder opbouw vallen een accukist, broeibak, gasflessenkist, gereedschapskist, kweekkas, pergola, schuur, tuinhuis, (t.v.-)antenne, windscherm of zonnepaneel."
+      }
+    ]
+  },
+  {
+    "id": "completion164",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe kan je lid worden van de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Je kunt lid worden van de tuinvereniging door een aanvraag in te dienen en te voldoen aan de gestelde voorwaarden."
+      }
+    ]
+  },
+  {
+    "id": "completion518",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoeveel ruimte moet minimaal beschikbaar zijn tussen de vloer en het plafond in de woon- en slaapkamers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Er moet minimaal 2,20 meter ruimte tussen vloer en plafond zijn in de woon- en slaapkamers."
+      }
+    ]
+  },
+  {
+    "id": "completion440",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoeveel administratiekosten kan het afdelingsbestuur in rekening brengen voor een administratief verzuim?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het afdelingsbestuur is bevoegd om voor elke week dat een administratief verzuim duurt aan het lid € 12,00 aan administratiekosten in rekening te brengen, zulks tot een maximum van dertien weken."
+      }
+    ]
+  },
+  {
+    "id": "completion6",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het doel van de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het doel van de tuinvereniging is het bevorderen van tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion182",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat moet je doen om geaccepteerd te worden als lid?"
+      },
+      {
+        "role": "assistant",
+        "content": "Je moet een aanvraag indienen en aan de voorwaarden voldoen."
+      }
+    ]
+  },
+  {
+    "id": "completion88",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke stappen moeten worden gevolgd bij een ongeval op het tuincomplex?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bij een ongeval moet eerst EHBO worden verleend, vervolgens het ongeval worden gemeld bij de calamiteitencommissie, en indien nodig 112 worden gebeld."
+      }
+    ]
+  },
+  {
+    "id": "completion85",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe zorgt VTV Water-Land voor de veiligheid van haar leden?"
+      },
+      {
+        "role": "assistant",
+        "content": "VTV Water-Land zorgt voor veiligheid door het opstellen van richtlijnen, beschikbaar stellen van veiligheidsuitrusting, en het organiseren van veiligheidsworkshops."
+      }
+    ]
+  },
+  {
+    "id": "completion400",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Onder welke omstandigheden kan een lid het lidmaatschap met onmiddellijke ingang opzeggen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een lid kan het lidmaatschap met onmiddellijke ingang opzeggen binnen een maand na mededeling van een besluit tot omzetting, fusie of splitsing van de bond, of bij beperking van rechten of verzwaring van plichten."
+      }
+    ]
+  },
+  {
+    "id": "completion142",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe kan je lid worden van de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Je kunt lid worden van de tuinvereniging door een aanvraag in te dienen en te voldoen aan de gestelde voorwaarden."
+      }
+    ]
+  },
+  {
+    "id": "completion118",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de inhoud van de jaarlijkse vergadering van leden?"
+      },
+      {
+        "role": "assistant",
+        "content": "De inhoud van de jaarlijkse vergadering van leden omvat het jaarverslag, de begroting, en beleidsplannen die besproken en goedgekeurd worden."
+      }
+    ]
+  },
+  {
+    "id": "completion196",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe kan iemand lid worden van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Iemand kan lid worden van de vereniging door een aanvraag in te dienen en te voldoen aan de vereiste criteria."
+      }
+    ]
+  },
+  {
+    "id": "completion238",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat valt er onder 'algemeen werk' binnen de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Onder algemeen werk vallen de taken die worden vastgesteld door afdelingsvergaderingen en door leden voor het tuinpark moeten worden uitgevoerd."
+      }
+    ]
+  },
+  {
+    "id": "completion53",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe is de vereniging VTV Water-Land gestructureerd?"
+      },
+      {
+        "role": "assistant",
+        "content": "De vereniging is gestructureerd met een bestuur en verschillende commissies die specifieke taken uitvoeren."
+      }
+    ]
+  },
+  {
+    "id": "completion269",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de definitie van 'woonadres' in dit geval?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het woonadres is de vaste woon- en verblijfplaats van een lid, geregistreerd naar postcode en huisnummer en - waar van toepassing - aangevuld met etagenummer of appartementsnummer."
+      }
+    ]
+  },
+  {
+    "id": "completion473",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke stappen moet een afdeling doorlopen om een geldlening aan te vragen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een afdeling moet eerst goedkeuring krijgen van de afdelingsvergadering, vervolgens moet het afdelingsbestuur gemachtigd worden het verzoek in te dienen, en daarna dient het afdelingsbestuur een schriftelijk en gemotiveerd verzoek in bij het bondsbestuur."
+      }
+    ]
+  },
+  {
+    "id": "completion131",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het doel van de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het doel van de Bond van Volkstuinders is onder andere het verkrijgen van grond voor het stichten en beheren van volkstuinen, het behartigen van de belangen van de leden, het bevorderen van tuinieren als ontspanning, en het propageren van milieu- en natuurvriendelijk gebruik van tuinparken."
+      }
+    ]
+  },
+  {
+    "id": "completion20",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat probeert deze tuinvereniging te bereiken?"
+      },
+      {
+        "role": "assistant",
+        "content": "Deze tuinvereniging probeert het tuinieren te bevorderen en faciliteiten en ondersteuning aan haar leden te bieden."
+      }
+    ]
+  },
+  {
+    "id": "completion106",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat gebeurt er tijdens de jaarlijkse vergadering van leden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tijdens de jaarlijkse vergadering van leden worden het jaarverslag, de begroting, en beleidsplannen besproken en goedgekeurd."
+      }
+    ]
+  },
+  {
+    "id": "completion332",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de uitgangspunten van de Bond van Volkstuinders voor het realiseren van hun doel?"
+      },
+      {
+        "role": "assistant",
+        "content": "De uitgangspunten omvatten onder andere het bieden van mogelijkheden om tuinieren te beoefenen, gezamenlijk onderhoud van het tuinpark, respectvolle omgang met anderen, en actieve deelname aan sociale activiteiten en gemeenschappelijke verplichtingen."
+      }
+    ]
+  },
+  {
+    "id": "completion91",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie mag deelnemen aan de bestuursvergaderingen van VTV Water-Land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bestuursvergaderingen zijn toegankelijk voor bestuursleden en genodigden."
+      }
+    ]
+  },
+  {
+    "id": "completion228",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt 'algemeen werk' gedefinieerd in de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Algemeen werk zijn de taken die tijdens afdelingsvergaderingen worden vastgesteld en door de leden van een afdeling moeten worden uitgevoerd voor het tuinpark."
+      }
+    ]
+  },
+  {
+    "id": "completion477",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Voor welke doeleinden kan een lid een geldlening aanvragen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een lid kan een geldlening aanvragen voor de aankoop, overname, (zelf)bouw of verbouwing van een bouwsel, zoals een tuinhuisje, kas of schuur."
+      }
+    ]
+  },
+  {
+    "id": "completion92",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de belangrijkste bespreekpunten tijdens een bestuursvergadering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Belangrijke bespreekpunten zijn het financieel overzicht, lopende projecten, en de planning van toekomstige activiteiten."
+      }
+    ]
+  },
+  {
+    "id": "completion115",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de agendapunten voor de jaarlijkse ledenbijeenkomst?"
+      },
+      {
+        "role": "assistant",
+        "content": "De agendapunten voor de jaarlijkse ledenbijeenkomst zijn het jaarverslag, de begroting, en beleidsplannen die besproken en goedgekeurd worden."
+      }
+    ]
+  },
+  {
+    "id": "completion111",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke zaken worden behandeld tijdens de jaarlijkse ledenvergadering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tijdens de jaarlijkse ledenvergadering worden het jaarverslag, de begroting, en beleidsplannen besproken en goedgekeurd."
+      }
+    ]
+  },
+  {
+    "id": "completion81",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe meldt een lid een calamiteit bij VTV Water-Land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een calamiteit kan gemeld worden door contact op te nemen met de calamiteitencommissie via het noodnummer."
+      }
+    ]
+  },
+  {
+    "id": "completion38",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de voordelen van lidmaatschap bij VTV Water-Land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Voordelen van lidmaatschap bij VTV Water-Land zijn toegang tot tuinfaciliteiten, educatieve workshops, en sociale evenementen."
+      }
+    ]
+  },
+  {
+    "id": "completion87",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de contactgegevens van de calamiteitencommissie?"
+      },
+      {
+        "role": "assistant",
+        "content": "De contactgegevens van de calamiteitencommissie zijn te vinden op de website onder het kopje 'Calamiteiten'."
+      }
+    ]
+  },
+  {
+    "id": "completion367",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de verplichtingen voor leden binnen deze organisatie?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leden moeten de statuten en regels naleven, de belangen van de organisatie beschermen, en alle andere verplichtingen die zijn vastgesteld door de organisatie volgen."
+      }
+    ]
+  },
+  {
+    "id": "completion39",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de openingstijden van het tuincomplex?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het tuincomplex is dagelijks geopend van 08:00 tot 20:00 uur."
+      }
+    ]
+  },
+  {
+    "id": "completion235",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt 'algemeen werk' uitgevoerd binnen de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het zijn de door afdelingsvergaderingen vastgestelde taken die leden van een afdeling voor het tuinpark moeten uitvoeren."
+      }
+    ]
+  },
+  {
+    "id": "completion406",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe verloopt het proces van ontzetting (royement) uit het lidmaatschap?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ontzetting geschiedt op verzoek van het bondsbestuur of afdelingsbestuur door een besluit van de tuchtcommissie. Het lid kan binnen één maand in beroep gaan bij de commissie van beroep."
+      }
+    ]
+  },
+  {
+    "id": "completion34",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat probeert de vereniging te bewerkstelligen?"
+      },
+      {
+        "role": "assistant",
+        "content": "De vereniging probeert het tuinieren te bevorderen en biedt faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion436",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat wordt bedoeld met een 'stil pandrecht' bij het verstrekken van een geldlening aan een lid?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het lid geeft voor de duur van de geldlening het bouwsel in pand (zogenaamd stil pandrecht) aan de bond en verleent de bond de wettelijke bevoegdheden van een pandhouder. Dit dient tot meerdere zekerheid voor wat het lid op grond van de overeenkomst en zijn lidmaatschap aan de bond verschuldigd is."
+      }
+    ]
+  },
+  {
+    "id": "completion187",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat moet je doen om als lid geaccepteerd te worden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Indienen van een aanvraag en voldoen aan de criteria."
+      }
+    ]
+  },
+  {
+    "id": "completion19",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het streven van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het streven van de vereniging is het bevorderen van tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion139",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe kan iemand lid worden van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Iemand kan lid worden van de vereniging door een aanvraagformulier in te vullen en te voldoen aan de lidmaatschapsvereisten."
+      }
+    ]
+  },
+  {
+    "id": "completion140",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat moet iemand doen om lid te worden van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Om lid te worden van de vereniging moet iemand een aanvraag indienen en voldoen aan de vastgestelde criteria."
+      }
+    ]
+  },
+  {
+    "id": "completion289",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de rol van de commissie van beroep?"
+      },
+      {
+        "role": "assistant",
+        "content": "De commissie van beroep behandelt beroepszaken binnen de bond."
+      }
+    ]
+  },
+  {
+    "id": "completion94",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de rol van de voorzitter tijdens een bestuursvergadering?"
+      },
+      {
+        "role": "assistant",
+        "content": "De voorzitter leidt de vergadering, bewaakt de agenda, en zorgt voor een ordelijk verloop van de bespreking."
+      }
+    ]
+  },
+  {
+    "id": "completion232",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt 'algemeen werk' omschreven binnen de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het zijn de door de afdelingsvergaderingen vastgestelde taken die de leden van een afdeling uitvoeren voor het tuinpark."
+      }
+    ]
+  },
+  {
+    "id": "completion95",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe kunnen leden de notulen van bestuursvergaderingen inzien?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leden kunnen de notulen inzien door deze op te vragen bij de secretaris of te bekijken op het ledengedeelte van de website."
+      }
+    ]
+  },
+  {
+    "id": "completion350",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is een 'erelid' binnen de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een erelid is een persoon aan wie op voorstel van het bondsbestuur door de bondsvergadering het predicaat 'erelid' is verleend vanwege bijzondere verdiensten voor de volkstuinen en de bond."
+      }
+    ]
+  },
+  {
+    "id": "completion239",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat houdt 'algemeen werk' in bij de afdeling van de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het zijn de door afdelingsvergaderingen vastgestelde werkzaamheden die leden van een afdeling voor het tuinpark moeten uitvoeren."
+      }
+    ]
+  },
+  {
+    "id": "completion82",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat te doen bij een brand op het tuincomplex?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bij brand moet men direct de brandweer bellen en proberen de brand te blussen met de aanwezige brandblussers."
+      }
+    ]
+  },
+  {
+    "id": "completion229",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de betekenis van 'algemeen werk' volgens de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Algemeen werk zijn de door de afdelingsvergadering goedgekeurde taken die door de afdelingleden voor het tuinpark moeten worden uitgevoerd."
+      }
+    ]
+  },
+  {
+    "id": "completion107",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke onderwerpen worden besproken tijdens de jaarlijkse ledenbijeenkomst?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tijdens de jaarlijkse ledenbijeenkomst worden het jaarverslag, de begroting, en beleidsplannen besproken en goedgekeurd."
+      }
+    ]
+  },
+  {
+    "id": "completion21",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de primaire missie van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De primaire missie van de vereniging is het bevorderen van tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion340",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie beslist over de toelating van een nieuw lid tot de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het afdelingsbestuur van het tuinpark, waarop de betrokkene een tuin wenst, beslist over de toelating van de betrokkene als lid van de bond."
+      }
+    ]
+  },
+  {
+    "id": "completion507",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de minimumhoogte tussen vloer en plafond in de woon- en slaapkamers van een tuinhuis?"
+      },
+      {
+        "role": "assistant",
+        "content": "De minimumhoogte tussen vloer en plafond moet ten minste 2,20 meter zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion438",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wanneer eindigt de verpanding van een bouwsel bij een geldlening?"
+      },
+      {
+        "role": "assistant",
+        "content": "De verpanding eindigt eerst nadat het lid zowel al hetgeen heeft voldaan dat hij tegenover de bond op grond van de overeenkomst van geldlening gehouden is te voldoen, als voor de duur van de overeenkomst, op grond van zijn lidmaatschap aan de bond verschuldigd is."
+      }
+    ]
+  },
+  {
+    "id": "completion447",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kan een lid de verschuldigde bedragen uit de geldlening verrekenen met vorderingen op de bond?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nee, het lid kan al wat hij op grond van de overeenkomst van geldlening aan de bond verschuldigd is niet verrekenen of compenseren met enige (gepretendeerde) vordering op de bond."
+      }
+    ]
+  },
+  {
+    "id": "completion429",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie is bevoegd tot het verstrekken van een geldlening en het aangaan van een overeenkomst van geldlening, verpanding en/of borgtocht?"
+      },
+      {
+        "role": "assistant",
+        "content": "Alleen het bondsbestuur is bevoegd tot het verstrekken van een geldlening en het aangaan van een overeenkomst van geldlening, verpanding en/of borgtocht."
+      }
+    ]
+  },
+  {
+    "id": "completion195",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke vereisten zijn er voor het lidmaatschap bij de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Voor lidmaatschap bij de tuinvereniging moet je een aanvraag invullen en voldoen aan de vastgestelde criteria."
+      }
+    ]
+  },
+  {
+    "id": "completion171",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat moet iemand doen om lid te worden van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Om lid te worden van de vereniging moet je een aanvraag indienen en voldoen aan de lidmaatschapscriteria."
+      }
+    ]
+  },
+  {
+    "id": "completion76",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de veiligheidsregels die worden gevolgd bij de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De veiligheidsregels die worden gevolgd bij de vereniging, zorgen voor een veilige omgeving voor iedereen."
+      }
+    ]
+  },
+  {
+    "id": "completion4",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat probeert de vereniging te bevorderen?"
+      },
+      {
+        "role": "assistant",
+        "content": "De vereniging probeert het tuinieren te bevorderen en biedt faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion355",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke plichten hebben de leden volgens de regels?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leden dienen de regels en besluiten te volgen, de belangen van de groep te beschermen, en alle andere verplichtingen die de organisatie aangaat te vervullen."
+      }
+    ]
+  },
+  {
+    "id": "completion485",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt de taxatiewaarde van een bouwsel berekend?"
+      },
+      {
+        "role": "assistant",
+        "content": "De taxatiewaarde wordt berekend als 80% van de waarde van het getaxeerde tuinhuisje, vermeerderd met - voor zover aanwezig - 80% van de getaxeerde waarde van een schuur en/of kas."
+      }
+    ]
+  },
+  {
+    "id": "completion320",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt een 'oprichtingsobject' gedefinieerd in deze context?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een oprichtingsobject kan bestaan uit een accukist, broeibak, gasflessenkist, gereedschapskist, kweekkas, pergola, schuur, tuinhuis, (t.v.-)antenne, windscherm of zonnepaneel."
+      }
+    ]
+  },
+  {
+    "id": "completion273",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat verstaat men onder 'woonadres' in deze context?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het woonadres is de vaste woon- en verblijfplaats van een lid, geregistreerd naar postcode en huisnummer en - waar van toepassing - aangevuld met etagenummer of appartementsnummer."
+      }
+    ]
+  },
+  {
+    "id": "completion226",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat houdt 'algemeen werk' in binnen de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Algemeen werk omvat de taken die door elke afdelingsvergadering worden bepaald en door de leden van een afdeling voor het tuinpark moeten worden uitgevoerd."
+      }
+    ]
+  },
+  {
+    "id": "completion36",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het doel van de ledenvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het doel van de ledenvereniging is het bevorderen van tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion312",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat bedoelt men met een 'oprichtingsstructuur' volgens de regels?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een oprichtingsstructuur kan een accukist, broeibak, gasflessenkist, gereedschapskist, kweekkas, pergola, schuur, tuinhuis, (t.v.-)antenne, windscherm of zonnepaneel zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion234",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de verplichtingen onder 'algemeen werk' in de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Onder algemeen werk vallen de door afdelingsvergaderingen vastgestelde werkzaamheden die door afdelingleden voor het tuinpark moeten worden uitgevoerd."
+      }
+    ]
+  },
+  {
+    "id": "completion41",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe kan men een tuin huren bij VTV Water-Land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een tuin huren bij VTV Water-Land kan door een aanvraag in te dienen via de website en een huurcontract te ondertekenen."
+      }
+    ]
+  },
+  {
+    "id": "completion119",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat staat er op de agenda van de jaarlijkse algemene ledenvergadering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Op de agenda van de jaarlijkse algemene ledenvergadering staan het jaarverslag, de begroting, en beleidsplannen die worden besproken en goedgekeurd."
+      }
+    ]
+  },
+  {
+    "id": "completion368",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe moeten leden zich gedragen volgens de regels?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leden moeten zich gedragen volgens de statuten en reglementen, de belangen van de organisatie beschermen, en alle andere verplichtingen die voortkomen uit de afspraken naleven."
+      }
+    ]
+  },
+  {
+    "id": "completion396",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie zijn belast met de tuchtrechtspraak in de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Met de tuchtrechtspraak zijn belast: in eerste aanleg de tuchtcommissie, en in hoger beroep de commissie van beroep."
+      }
+    ]
+  },
+  {
+    "id": "completion93",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe worden besluiten genomen tijdens de bestuursvergaderingen van VTV Water-Land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Besluiten worden genomen op basis van meerderheid van stemmen van de aanwezige bestuursleden."
+      }
+    ]
+  },
+  {
+    "id": "completion209",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de taken van het bondsbestuur?"
+      },
+      {
+        "role": "assistant",
+        "content": "De taken van het bondsbestuur omvatten onder andere het besturen van de bond, het nemen van strategische en tactische beslissingen, het toezien op naleving van statuten en reglementen, en het vertegenwoordigen van de bond bij andere organisaties."
+      }
+    ]
+  },
+  {
+    "id": "completion267",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat betekent 'woonadres' voor deze situatie?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het woonadres is de vaste woon- en verblijfplaats van een lid, geregistreerd naar postcode en huisnummer en - waar van toepassing - aangevuld met etagenummer of appartementsnummer."
+      }
+    ]
+  },
+  {
+    "id": "completion338",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is een voorwaarde voor toelating tot het lidmaatschap van de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Toelating tot het lidmaatschap is alleen mogelijk als door de bond voor de duur van het lidmaatschap aan degene die tot het lidmaatschap wordt toegelaten een volkstuin ter beschikking wordt gesteld."
+      }
+    ]
+  },
+  {
+    "id": "completion211",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe vaak wordt de bondsvergadering gehouden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het bondsbestuur roept jaarlijks twee vergaderingen van de bondsvergadering bijeen: een voorjaarsvergadering uiterlijk 30 juni en een najaarsvergadering uiterlijk 30 december."
+      }
+    ]
+  },
+  {
+    "id": "completion233",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat houdt de term 'algemeen werk' in bij de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Algemeen werk zijn de door elke afdelingsvergadering goedgekeurde taken die door afdelingleden ten behoeve van het tuinpark worden uitgevoerd."
+      }
+    ]
+  },
+  {
+    "id": "completion30",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het doel van deze vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het doel van deze vereniging is het bevorderen van tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion151",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe kan iemand lid worden van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Iemand kan lid worden van de vereniging door een aanvraag in te dienen en te voldoen aan de vereiste criteria."
+      }
+    ]
+  },
+  {
+    "id": "completion321",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat houdt een 'tuinhuis' in volgens de regels?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een tuinhuis kan een accukist, broeibak, gasflessenkist, gereedschapskist, kweekkas, pergola, schuur, tuinhuis, (t.v.-)antenne, windscherm of zonnepaneel zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion197",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de procedure om lid te worden van de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De procedure om lid te worden van de tuinvereniging omvat het indienen van een aanvraag en voldoen aan de lidmaatschapscriteria."
+      }
+    ]
+  },
+  {
+    "id": "completion336",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie kunnen lid worden van de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leden dienen meerderjarig te zijn en een vaste woon- of verblijfplaats in Nederland te hebben."
+      }
+    ]
+  },
+  {
+    "id": "completion380",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke rechten heeft een lid met betrekking tot een volkstuin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een lid is bevoegd de volkstuin overeenkomstig zijn bestemming voor de duur van het lidmaatschap te gebruiken, met inachtneming van het Tuinreglement."
+      }
+    ]
+  },
+  {
+    "id": "completion330",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het doel van de Bond van Volkstuinders met betrekking tot de kosten van het houden van een volkstuin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het doel is de kosten voor het houden van een volkstuin of nutstuin zo laag mogelijk te houden zodat deze geen drempel vormen voor minder draagkrachtigen."
+      }
+    ]
+  },
+  {
+    "id": "completion22",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat streeft de tuinvereniging na?"
+      },
+      {
+        "role": "assistant",
+        "content": "De tuinvereniging streeft naar het bevorderen van tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion64",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke veiligheidsrichtlijnen hanteert de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De tuinvereniging hanteert veiligheidsrichtlijnen om de veiligheid van haar leden te waarborgen."
+      }
+    ]
+  },
+  {
+    "id": "completion504",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de vereiste hoogte voor de woon- en slaapkamers in een tuinhuis?"
+      },
+      {
+        "role": "assistant",
+        "content": "De vereiste hoogte tussen vloer en plafond in de woon- en slaapkamers is ten minste 2,20 meter."
+      }
+    ]
+  },
+  {
+    "id": "completion7",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het primaire doel van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het primaire doel van de vereniging is het bevorderen van tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion489",
+    "messages": [
+      {
+        "role": "user",
+        "content": "In welke situatie is een lid geen rente verschuldigd over een geldlening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een lid is geen rente verschuldigd wanneer aan hem een lening wordt verstrekt voor een bouwsel dat dient te worden verplaatst of herbouwd als gevolg van de opheffing of verplaatsing van een tuinpark."
+      }
+    ]
+  },
+  {
+    "id": "completion62",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de richtlijnen voor veiligheid bij de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De richtlijnen voor veiligheid bij de tuinvereniging omvatten maatregelen om een veilige omgeving voor iedereen te creëren."
+      }
+    ]
+  },
+  {
+    "id": "completion508",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoeveel ruimte moet er zijn tussen de vloer en het plafond in de woon- en slaapkamers van een tuinhuis?"
+      },
+      {
+        "role": "assistant",
+        "content": "Er moet minimaal 2,20 meter ruimte zijn tussen de vloer en het plafond in de woon- en slaapkamers."
+      }
+    ]
+  },
+  {
+    "id": "completion138",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de procedure voor toelating als lid bij de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De procedure voor toelating als lid bij de tuinvereniging omvat het invullen van een aanvraag en voldoen aan bepaalde voorwaarden."
+      }
+    ]
+  },
+  {
+    "id": "completion221",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie is verantwoordelijk voor het onderhoud van een volkstuin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het lid is verplicht de hem ter beschikking gestelde volkstuin, bouwsels en beplantingen te onderhouden en in goede staat te houden."
+      }
+    ]
+  },
+  {
+    "id": "completion419",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat gebeurt er als bij een stemming over personen geen kandidaat een gewone meerderheid behaalt in de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Er wordt een tweede stemming gehouden tussen de kandidaten met het hoogste en het op één na hoogste aantal stemmen. Bij een gelijke stemming in de tweede ronde volgt een derde stemming. De kandidaat die dan de gewone meerderheid behaalt of door loting is aangewezen, wordt benoemd."
+      }
+    ]
+  },
+  {
+    "id": "completion63",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de veiligheidsvoorschriften bij de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De veiligheidsvoorschriften bij de vereniging zorgen ervoor dat alle activiteiten op een veilige manier worden uitgevoerd."
+      }
+    ]
+  },
+  {
+    "id": "completion178",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de eisen om lid te worden van de tuinclub?"
+      },
+      {
+        "role": "assistant",
+        "content": "Je moet een aanvraag indienen en aan de criteria voldoen."
+      }
+    ]
+  },
+  {
+    "id": "completion260",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de uitleg van 'woonadres' hier?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het woonadres is de vaste woon- en verblijfplaats van een lid, geregistreerd naar postcode en huisnummer en - waar van toepassing - aangevuld met etagenummer of appartementsnummer."
+      }
+    ]
+  },
+  {
+    "id": "completion184",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke stappen moet je volgen om lid te worden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een aanvraag indienen en aan de lidmaatschapsvoorwaarden voldoen."
+      }
+    ]
+  },
+  {
+    "id": "completion69",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de veiligheidsvoorschriften die de vereniging hanteert?"
+      },
+      {
+        "role": "assistant",
+        "content": "De veiligheidsvoorschriften die de vereniging hanteert, zorgen voor een veilige omgeving voor alle leden."
+      }
+    ]
+  },
+  {
+    "id": "completion303",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is een 'gebouw' volgens de regels?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een gebouw kan een accukist, broeibak, gasflessenkist, gereedschapskist, kweekkas, pergola, schuur, tuinhuis, (t.v.-)antenne, windscherm of zonnepaneel zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion386",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de verplichting van een lid met betrekking tot 'algemeen werk'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een lid is verplicht het algemeen werk te verrichten op de in het rooster vermelde data en tijden, tenzij dispensatie is verleend of anders is overeengekomen met het afdelingsbestuur."
+      }
+    ]
+  },
+  {
+    "id": "completion475",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat gebeurt er als het bondsbestuur een verzoek tot geldlening van een afdeling afwijst?"
+      },
+      {
+        "role": "assistant",
+        "content": "Als het bondsbestuur een verzoek tot geldlening van een afdeling afwijst, kan de afdeling in beroep gaan bij de bondsvergadering. Het bondsbestuur moet zijn afwijzing motiveren."
+      }
+    ]
+  },
+  {
+    "id": "completion213",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is een 'afdeling' binnen de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een afdeling is een niet-rechtspersoonlijkheid bezittende organisatorische eenheid van de bond waaronder de leden van de bond ressorteren. Elk tuinpark van de bond vormt een afdeling."
+      }
+    ]
+  },
+  {
+    "id": "completion14",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de missie van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De missie van de vereniging is het bevorderen van tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion31",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat streeft de vereniging na?"
+      },
+      {
+        "role": "assistant",
+        "content": "De vereniging streeft naar het bevorderen van tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion135",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt iemand toegelaten als lid van de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Toelating tot het lidmaatschap gebeurt door het afdelingsbestuur van het tuinpark waar de betrokkene een tuin wenst. Het bondsbestuur kan de definitieve toelating weigeren onder bepaalde omstandigheden."
+      }
+    ]
+  },
+  {
+    "id": "completion122",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke documenten worden besproken tijdens de jaarlijkse ledenvergadering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tijdens de jaarlijkse ledenvergadering worden het jaarverslag, de begroting, en beleidsplannen besproken en goedgekeurd."
+      }
+    ]
+  },
+  {
+    "id": "completion167",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt iemand geaccepteerd als lid van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Iemand wordt geaccepteerd als lid van de vereniging door een aanvraag in te dienen en te voldoen aan de lidmaatschapscriteria."
+      }
+    ]
+  },
+  {
+    "id": "completion521",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de minimum vrije ruimte tussen vloer en plafond in een tuinhuis?"
+      },
+      {
+        "role": "assistant",
+        "content": "De minimale vrije ruimte bedraagt 2,20 meter tussen vloer en plafond."
+      }
+    ]
+  },
+  {
+    "id": "completion434",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het maximum bedrag dat kan worden geleend voor een nieuw te bouwen tuinhuisje?"
+      },
+      {
+        "role": "assistant",
+        "content": "Voor een nieuw te bouwen tuinhuisje bedraagt de geldlening ten hoogste 80% van de bouwkosten met een maximum van € 5.000,00."
+      }
+    ]
+  },
+  {
+    "id": "completion49",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de taken tijdens een werkbeurt?"
+      },
+      {
+        "role": "assistant",
+        "content": "Taken tijdens een werkbeurt omvatten snoeien, onkruid wieden, en het onderhouden van gemeenschappelijke ruimtes."
+      }
+    ]
+  },
+  {
+    "id": "completion418",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoeveel stemmen mag een stemgerechtigde uitbrengen in een vergadering van de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tenzij in de statuten anders is bepaald, brengt iedere stemgerechtigde in de desbetreffende vergadering één stem uit. Een stemgerechtigde kan één andere stemgerechtigde schriftelijk een volmacht verlenen om namens hem te stemmen."
+      }
+    ]
+  },
+  {
+    "id": "completion346",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de rol van de commissie van beroep bij niet-toelating van een lid?"
+      },
+      {
+        "role": "assistant",
+        "content": "De commissie van beroep kan bij niet-toelating de betrokkene alsnog als lid toelaten."
+      }
+    ]
+  },
+  {
+    "id": "completion150",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke vereisten zijn er voor het lidmaatschap bij de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Voor lidmaatschap bij de tuinvereniging moet je een aanvraag invullen en voldoen aan de vastgestelde criteria."
+      }
+    ]
+  },
+  {
+    "id": "completion276",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt 'woonadres' uitgelegd in deze context?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het woonadres is de vaste woon- en verblijfplaats van een lid, geregistreerd naar postcode en huisnummer en - waar van toepassing - aangevuld met etagenummer of appartementsnummer."
+      }
+    ]
+  },
+  {
+    "id": "completion510",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de minimale hoogte die moet worden gehandhaafd in een tuinhuis?"
+      },
+      {
+        "role": "assistant",
+        "content": "De minimale hoogte tussen vloer en plafond moet 220 centimeter bedragen in de woon- en slaapkamers."
+      }
+    ]
+  },
+  {
+    "id": "completion495",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de maximaal toegestane hoogte van een tuinhuis met een platdak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bij een platdak mag de hoogte tussen hoogste punt van het dak en bovenkant vloer niet meer bedragen dan 2,75 m."
+      }
+    ]
+  },
+  {
+    "id": "completion129",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wanneer is de Bond van Volkstuinders opgericht?"
+      },
+      {
+        "role": "assistant",
+        "content": "De Bond van Volkstuinders is opgericht op 18 augustus 1917."
+      }
+    ]
+  },
+  {
+    "id": "completion417",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie leidt de bondsvergadering van de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "De bondsvergadering wordt geleid door de voorzitter van het bondsbestuur."
+      }
+    ]
+  },
+  {
+    "id": "completion156",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe kan iemand worden toegelaten als lid van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Iemand kan worden toegelaten als lid van de vereniging door een aanvraag in te dienen en te voldoen aan de lidmaatschapscriteria."
+      }
+    ]
+  },
+  {
+    "id": "completion424",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke zekerheden kan het bondsbestuur verlangen bij het verstrekken van een geldlening aan een lid?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het bondsbestuur kan het bouwsel in pand laten geven, de verzekeringspenningen laten overdragen, en in geval van verbouw of zelfbouw een derde als borg laten stellen."
+      }
+    ]
+  },
+  {
+    "id": "completion293",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie leidt het bondsbureau?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het bondsbureau wordt geleid door een hoofd bondsbureau."
+      }
+    ]
+  },
+  {
+    "id": "completion33",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat wil de vereniging bewerkstelligen?"
+      },
+      {
+        "role": "assistant",
+        "content": "De vereniging wil het tuinieren bevorderen en faciliteiten en ondersteuning aan haar leden bieden."
+      }
+    ]
+  },
+  {
+    "id": "completion459",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie behandelt de zaak als een administratief verzuim een overtreding wordt?"
+      },
+      {
+        "role": "assistant",
+        "content": "Als een administratief verzuim een overtreding wordt, behandelt de Tuchtcommissie de zaak met inachtneming van het bepaalde in het Tuchtreglement."
+      }
+    ]
+  },
+  {
+    "id": "completion202",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat moet je doen om lid te worden van de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Om lid te worden van de tuinvereniging moet je een aanvraag invullen en voldoen aan de gestelde lidmaatschapscriteria."
+      }
+    ]
+  },
+  {
+    "id": "completion352",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de algemene verplichtingen van leden van de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leden zijn verplicht de statuten, reglementen en besluiten na te leven, de belangen van de bond niet te schaden, en alle overige verplichtingen die de bond aangaat te aanvaarden en na te komen."
+      }
+    ]
+  },
+  {
+    "id": "completion181",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt een nieuw lid welkom geheten?"
+      },
+      {
+        "role": "assistant",
+        "content": "Door een aanvraag in te dienen en aan de gestelde voorwaarden te voldoen."
+      }
+    ]
+  },
+  {
+    "id": "completion441",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wanneer kan een lid in beroep gaan tegen opgelegde boetes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Indien de door de tuchtcommissie opgelegde boete vermeerderd met het bedrag door het desbetreffende bestuur in rekening gebrachte administratiekosten (boetes) meer dan € 115,00 bedraagt, kan de betrokkene hiervan in beroep gaan bij de commissie van beroep."
+      }
+    ]
+  },
+  {
+    "id": "completion509",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de minimaal vereiste plafondhoogte in de woon- en slaapkamers van een tuinhuis?"
+      },
+      {
+        "role": "assistant",
+        "content": "De minimaal vereiste hoogte tussen vloer en plafond is 2,20 meter."
+      }
+    ]
+  },
+  {
+    "id": "completion185",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe word je nieuw lid bij de tuinclub?"
+      },
+      {
+        "role": "assistant",
+        "content": "Door een aanvraag in te dienen en de voorwaarden te vervullen."
+      }
+    ]
+  },
+  {
+    "id": "completion370",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke verantwoordelijkheden hebben leden binnen deze context?"
+      },
+      {
+        "role": "assistant",
+        "content": "Binnen deze context moeten leden de statuten en reglementen volgen, de belangen van de organisatie beschermen, en alle overige verplichtingen die zijn overeengekomen nakomen."
+      }
+    ]
+  },
+  {
+    "id": "completion99",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe vaak worden de financiën van VTV Water-Land gecontroleerd?"
+      },
+      {
+        "role": "assistant",
+        "content": "De financiën worden jaarlijks gecontroleerd door een kascommissie."
+      }
+    ]
+  },
+  {
+    "id": "completion378",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het beleid van de Bond van Volkstuinders ten aanzien van ongewenst gedrag?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leden dienen zich te onthouden van elke vorm van seksueel gedrag of toenadering die als ongewenst, gedwongen, discriminerend of racistisch wordt ervaren. Ook verbaal en fysiek geweld en bedreigingen zijn niet toegestaan."
+      }
+    ]
+  },
+  {
+    "id": "completion54",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke rechten hebben leden van VTV Water-Land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leden hebben rechten zoals het bijwonen van vergaderingen, stemmen bij beslissingen, en gebruik maken van de faciliteiten."
+      }
+    ]
+  },
+  {
+    "id": "completion514",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de minimale hoogte tussen vloer en plafond in de woon- en slaapkamers van een tuinhuis?"
+      },
+      {
+        "role": "assistant",
+        "content": "De minimale hoogte bedraagt 2,20 meter."
+      }
+    ]
+  },
+  {
+    "id": "completion143",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is nodig om toegelaten te worden als lid van de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Om toegelaten te worden als lid van de tuinvereniging moet je een aanvraag indienen en voldoen aan de lidmaatschapsvereisten."
+      }
+    ]
+  },
+  {
+    "id": "completion295",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de definitie van een 'functionaris' binnen de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een functionaris is een ieder die bij de bond een functie vervult."
+      }
+    ]
+  },
+  {
+    "id": "completion299",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de definitie van een 'bouwsel' volgens de statuten?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een bouwsel is een accukist, broeibak, gasflessenkist, gereedschapskist, kweekkas, pergola, schuur, tuinhuis, (t.v.-)antenne, windscherm en zonnepaneel."
+      }
+    ]
+  },
+  {
+    "id": "completion414",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe worden besluiten genomen in de Bond van Volkstuinders volgens Artikel 22?"
+      },
+      {
+        "role": "assistant",
+        "content": "Besluiten worden genomen met een gewone meerderheid van de uitgebrachte stemmen, tenzij anders bepaald in de statuten of reglementen. Een gewone meerderheid betekent meer dan de helft van de door stemgerechtigden uitgebrachte geldige stemmen."
+      }
+    ]
+  },
+  {
+    "id": "completion16",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de doelstelling van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De doelstelling van de vereniging is het bevorderen van tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion422",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe lang kan een geldlening aan een lid maximaal duren?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een geldlening aan een lid kan worden verstrekt voor de duur van ten hoogste vijf jaren."
+      }
+    ]
+  },
+  {
+    "id": "completion277",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de uitleg van het begrip 'woonadres' hier?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het woonadres is de vaste woon- en verblijfplaats van een lid, geregistreerd naar postcode en huisnummer en - waar van toepassing - aangevuld met etagenummer of appartementsnummer."
+      }
+    ]
+  },
+  {
+    "id": "completion192",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe word je een lid van de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Door een aanvraag in te dienen en aan de gestelde voorwaarden te voldoen."
+      }
+    ]
+  },
+  {
+    "id": "completion324",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat wordt verstaan onder 'attributen' op een tuin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Attributen zijn elk voorwerp dat zich op een tuin bevindt en dat geen bouwsel en geen beplanting is, zoals bijvoorbeeld speeltuigen, zwembadjes, kinderhutten, partytenten, barbecue, voorwerpen, etc."
+      }
+    ]
+  },
+  {
+    "id": "completion287",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de functie van de tuchtcommissie?"
+      },
+      {
+        "role": "assistant",
+        "content": "De tuchtcommissie is verantwoordelijk voor de tuchtrechtspraak van de bond."
+      }
+    ]
+  },
+  {
+    "id": "completion104",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat staat op de agenda van de jaarlijkse ledenvergadering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Op de agenda van de jaarlijkse ledenvergadering staan het jaarverslag, de begroting, en beleidsplannen die worden besproken en goedgekeurd."
+      }
+    ]
+  },
+  {
+    "id": "completion116",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat wordt er behandeld tijdens de jaarlijkse vergadering van leden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tijdens de jaarlijkse vergadering van leden worden het jaarverslag, de begroting, en beleidsplannen besproken en goedgekeurd."
+      }
+    ]
+  },
+  {
+    "id": "completion451",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het doel van het Bouw- en Solidariteitsfonds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het Bouw- en Solidariteitsfonds verstrekt leningen aan afdelingen en aan leden voor de financiering van bouwsels op tuinparken van de bond."
+      }
+    ]
+  },
+  {
+    "id": "completion40",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke evenementen organiseert VTV Water-Land voor haar leden?"
+      },
+      {
+        "role": "assistant",
+        "content": "VTV Water-Land organiseert evenementen zoals tuinbeurzen, workshops, en gezamenlijke tuinwerkdagen."
+      }
+    ]
+  },
+  {
+    "id": "completion263",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt het begrip 'woonadres' hier gedefinieerd?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het woonadres is de vaste woon- en verblijfplaats van een lid, geregistreerd naar postcode en huisnummer en - waar van toepassing - aangevuld met etagenummer of appartementsnummer."
+      }
+    ]
+  },
+  {
+    "id": "completion102",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat wordt er besproken tijdens de jaarlijkse ledenvergadering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tijdens de jaarlijkse ledenvergadering worden het jaarverslag, de begroting, en beleidsplannen besproken en goedgekeurd."
+      }
+    ]
+  },
+  {
+    "id": "completion354",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de belangrijkste verantwoordelijkheden van de leden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leden moeten de statuten, reglementen en besluiten volgen, de belangen van de organisatie respecteren, en alle andere verplichtingen die de organisatie aangaat naleven."
+      }
+    ]
+  },
+  {
+    "id": "completion237",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de taken die als 'algemeen werk' worden beschouwd?"
+      },
+      {
+        "role": "assistant",
+        "content": "Algemeen werk betreft de werkzaamheden die door de afdelingsvergadering worden goedgekeurd en die door de afdelingleden voor het tuinpark moeten worden uitgevoerd."
+      }
+    ]
+  },
+  {
+    "id": "completion457",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wanneer wordt een administratief verzuim als een overtreding aangemerkt?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een administratief verzuim wordt als een overtreding aangemerkt indien het langer dan tien weken duurt."
+      }
+    ]
+  },
+  {
+    "id": "completion328",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie is een 'donateur' van de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een donateur is een persoon of instelling die de bond met een geldelijke bijdrage ondersteunt."
+      }
+    ]
+  },
+  {
+    "id": "completion427",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de inkomsten van het Bouw- en Solidariteitsfonds?"
+      },
+      {
+        "role": "assistant",
+        "content": "De inkomsten van het Bouw- en Solidariteitsfonds bestaan uit een van de leden te heffen jaarlijkse bijdrage, welke wordt vastgesteld door de bondsvergadering, alsmede uit schenkingen, rente en andere baten."
+      }
+    ]
+  },
+  {
+    "id": "completion305",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe definieert men een 'tuinconstructie' volgens de regels?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een tuinconstructie omvat een accukist, broeibak, gasflessenkist, gereedschapskist, kweekkas, pergola, schuur, tuinhuis, (t.v.-)antenne, windscherm of zonnepaneel."
+      }
+    ]
+  },
+  {
+    "id": "completion394",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de gronden voor strafbaarheid binnen de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Strafbaar is elk handelen of nalaten dat in strijd is met de statuten, reglementen en besluiten van de bond of een afdeling, of dat de belangen van de bond of een afdeling schaadt."
+      }
+    ]
+  },
+  {
+    "id": "completion274",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat houdt het begrip 'woonadres' in deze situatie in?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het woonadres is de vaste woon- en verblijfplaats van een lid, geregistreerd naar postcode en huisnummer en - waar van toepassing - aangevuld met etagenummer of appartementsnummer."
+      }
+    ]
+  },
+  {
+    "id": "completion1",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het doel van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het doel van de vereniging is het bevorderen van tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion191",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat moet er gebeuren om een nieuw lid te worden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Je moet een aanvraag indienen en voldoen aan de criteria."
+      }
+    ]
+  },
+  {
+    "id": "completion261",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat houdt 'woonadres' in in deze situatie?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het woonadres is de vaste woon- en verblijfplaats van een lid, geregistreerd naar postcode en huisnummer en - waar van toepassing - aangevuld met etagenummer of appartementsnummer."
+      }
+    ]
+  },
+  {
+    "id": "completion74",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke veiligheidsvoorschriften gelden er bij de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bij de vereniging gelden veiligheidsvoorschriften om een veilige omgeving voor alle leden te creëren."
+      }
+    ]
+  },
+  {
+    "id": "completion398",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe kan het lidmaatschap van de Bond van Volkstuinders eindigen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het lidmaatschap kan eindigen door de dood, opzegging of ontzetting (royement)."
+      }
+    ]
+  },
+  {
+    "id": "completion200",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke stappen zijn nodig voor lidmaatschap bij de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De benodigde stappen voor lidmaatschap bij de vereniging zijn het indienen van een aanvraag en voldoen aan de vereiste voorwaarden."
+      }
+    ]
+  },
+  {
+    "id": "completion9",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het doel van deze tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het doel van deze tuinvereniging is het bevorderen van tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion67",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de veiligheidsrichtlijnen die de vereniging volgt?"
+      },
+      {
+        "role": "assistant",
+        "content": "De vereniging volgt veiligheidsrichtlijnen om een veilige tuinervaring voor alle leden te garanderen."
+      }
+    ]
+  },
+  {
+    "id": "completion42",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de procedure voor het indienen van een klacht?"
+      },
+      {
+        "role": "assistant",
+        "content": "Klachten kunnen schriftelijk worden ingediend bij het bestuur via het klachtenformulier op de website."
+      }
+    ]
+  },
+  {
+    "id": "completion342",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke documenten moet een potentieel lid overleggen bij een verzoek tot toelating?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een potentieel lid moet een uittreksel uit de gemeentelijke basisadministratie overleggen (niet ouder dan één maand) en een geldig, op zijn naam gesteld legitimatiebewijs tonen en in kopie overleggen."
+      }
+    ]
+  },
+  {
+    "id": "completion90",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe kunnen leden agendapunten aandragen voor een bestuursvergadering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leden kunnen agendapunten aandragen door deze minimaal een week voor de vergadering schriftelijk in te dienen bij de secretaris."
+      }
+    ]
+  },
+  {
+    "id": "completion109",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat gebeurt er tijdens de jaarlijkse vergadering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tijdens de jaarlijkse vergadering worden het jaarverslag, de begroting, en beleidsplannen besproken en goedgekeurd."
+      }
+    ]
+  },
+  {
+    "id": "completion520",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoeveel centimeters moet de vrije hoogte tussen vloer en plafond zijn in de slaapkamers van een tuinhuis?"
+      },
+      {
+        "role": "assistant",
+        "content": "De vrije hoogte moet minimaal 220 centimeter zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion5",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat wil de vereniging bereiken?"
+      },
+      {
+        "role": "assistant",
+        "content": "De vereniging wil het tuinieren bevorderen en faciliteiten en ondersteuning aan haar leden bieden."
+      }
+    ]
+  },
+  {
+    "id": "completion75",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de veiligheidsrichtlijnen bij de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De veiligheidsrichtlijnen bij de tuinvereniging zijn bedoeld om de veiligheid van alle leden te waarborgen."
+      }
+    ]
+  },
+  {
+    "id": "completion125",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe kunnen leden invloed uitoefenen op het beleid van VTV Water-Land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leden kunnen invloed uitoefenen door deel te nemen aan vergaderingen, zich kandidaat te stellen voor bestuursfuncties, en door hun stem uit te brengen tijdens de algemene ledenvergadering."
+      }
+    ]
+  },
+  {
+    "id": "completion58",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe vaak vergadert het bestuur van VTV Water-Land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het bestuur vergadert maandelijks om lopende zaken te bespreken en beslissingen te nemen."
+      }
+    ]
+  },
+  {
+    "id": "completion72",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de richtlijnen voor veiligheid die de vereniging hanteert?"
+      },
+      {
+        "role": "assistant",
+        "content": "De richtlijnen voor veiligheid die de vereniging hanteert, zorgen voor een veilige omgeving voor alle leden."
+      }
+    ]
+  },
+  {
+    "id": "completion57",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe kan je lid worden van een commissie binnen VTV Water-Land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Je kan lid worden van een commissie door je aan te melden bij het bestuur of de betreffende commissievoorzitter."
+      }
+    ]
+  },
+  {
+    "id": "completion272",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het 'woonadres' zoals gedefinieerd hier?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het woonadres is de vaste woon- en verblijfplaats van een lid, geregistreerd naar postcode en huisnummer en - waar van toepassing - aangevuld met etagenummer of appartementsnummer."
+      }
+    ]
+  },
+  {
+    "id": "completion153",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe kan je toegelaten worden als lid van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Je kunt toegelaten worden als lid van de vereniging door een aanvraag te indienen en te voldoen aan de gestelde criteria."
+      }
+    ]
+  },
+  {
+    "id": "completion243",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt 'algemeen werk' geregeld binnen de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Algemeen werk omvat de werkzaamheden die tijdens afdelingsvergaderingen worden goedgekeurd en die door de leden van een afdeling moeten worden uitgevoerd voor het tuinpark."
+      }
+    ]
+  },
+  {
+    "id": "completion23",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het belangrijkste doel van deze vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het belangrijkste doel van deze vereniging is het bevorderen van tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion50",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe meld je je aan voor een werkbeurt?"
+      },
+      {
+        "role": "assistant",
+        "content": "Aanmelden voor een werkbeurt kan via het online formulier op de website van VTV Water-Land."
+      }
+    ]
+  },
+  {
+    "id": "completion71",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke veiligheidsrichtlijnen worden gevolgd bij de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De tuinvereniging volgt veiligheidsrichtlijnen om een veilige tuinervaring voor iedereen te garanderen."
+      }
+    ]
+  },
+  {
+    "id": "completion502",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de minimale hoogte die moet worden behouden in de woon- en slaapkamers van een tuinhuis?"
+      },
+      {
+        "role": "assistant",
+        "content": "De minimale hoogte tussen vloer en plafond in de woon- en slaapkamers moet minstens 2,20 meter zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion146",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de aanmeldprocedure voor de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De aanmeldprocedure voor de vereniging bestaat uit het invullen van een aanvraagformulier en het voldoen aan de lidmaatschapsvereisten."
+      }
+    ]
+  },
+  {
+    "id": "completion0",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het doel van VTV Water-Land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het doel van VTV Water-Land is het bevorderen van het tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion161",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt iemand lid van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Iemand wordt lid van de vereniging door een aanmeldingsformulier in te vullen en te voldoen aan de lidmaatschapsvereisten."
+      }
+    ]
+  },
+  {
+    "id": "completion382",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Onder welke voorwaarden mag een lid een tuinhuisje of andere bouwsels plaatsen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een lid mag een tuinhuisje en andere bouwsels plaatsen als het Tuinreglement hierin voorziet, en na voorafgaande schriftelijke toestemming van het desbetreffende afdelingsbestuur en het bondsbestuur."
+      }
+    ]
+  },
+  {
+    "id": "completion175",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat moet je doen om als nieuw lid geaccepteerd te worden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Je moet een aanvraag doen en voldoen aan de gestelde criteria."
+      }
+    ]
+  },
+  {
+    "id": "completion79",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke richtlijnen voor veiligheid worden gevolgd bij de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De richtlijnen voor veiligheid die worden gevolgd bij de tuinvereniging, zorgen voor de veiligheid van alle leden."
+      }
+    ]
+  },
+  {
+    "id": "completion516",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de minimale plafondruimte vereist in een tuinhuis?"
+      },
+      {
+        "role": "assistant",
+        "content": "De minimale ruimte tussen vloer en plafond moet 2,20 meter zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion446",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de definitie van 'taxatiewaarde' bij het verstrekken van een geldlening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Onder taxatiewaarde wordt verstaan 80% van de waarde van het getaxeerde tuinhuisje, vermeerderd met - voor zover aanwezig - 80% van de getaxeerde waarde van een schuur en/of kas."
+      }
+    ]
+  },
+  {
+    "id": "completion388",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wanneer eindigt de beschikbaarstelling van een volkstuin aan een lid?"
+      },
+      {
+        "role": "assistant",
+        "content": "De beschikbaarstelling van een volkstuin eindigt op de datum waarop het lidmaatschap eindigt."
+      }
+    ]
+  },
+  {
+    "id": "completion517",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de minimale hoogte tussen vloer en plafond in de slaapkamers van een tuinhuis?"
+      },
+      {
+        "role": "assistant",
+        "content": "De hoogte tussen vloer en plafond moet minstens 2,20 meter zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion432",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat gebeurt er als het bondsbestuur een verzoek tot geldlening van een afdeling afwijst?"
+      },
+      {
+        "role": "assistant",
+        "content": "Indien het bondsbestuur het verzoek tot het verstrekken van een geldlening afwijst, kan de afdeling van die beslissing in beroep gaan bij de bondsvergadering. Het bondsbestuur moet zijn beslissing motiveren."
+      }
+    ]
+  },
+  {
+    "id": "completion207",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe is de bondsvergadering samengesteld?"
+      },
+      {
+        "role": "assistant",
+        "content": "De bondsvergadering bestaat uit afgevaardigden die door de afdelingsvergaderingen zijn gekozen. Elke afdeling wordt vertegenwoordigd door drie afgevaardigden."
+      }
+    ]
+  },
+  {
+    "id": "completion313",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat wordt verstaan onder 'tuinopbouw' in deze context?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een tuinopbouw kan een accukist, broeibak, gasflessenkist, gereedschapskist, kweekkas, pergola, schuur, tuinhuis, (t.v.-)antenne, windscherm of zonnepaneel zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion152",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de procedure om lid te worden van de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De procedure om lid te worden van de tuinvereniging omvat het indienen van een aanvraag en voldoen aan de lidmaatschapscriteria."
+      }
+    ]
+  },
+  {
+    "id": "completion371",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de verplichtingen van leden volgens de statuten?"
+      },
+      {
+        "role": "assistant",
+        "content": "Volgens de statuten moeten leden de regels en besluiten volgen, de belangen van de organisatie niet schaden, en alle andere verplichtingen die zijn afgesproken naleven."
+      }
+    ]
+  },
+  {
+    "id": "completion425",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat gebeurt er als een administratief verzuim langer dan tien weken duurt?"
+      },
+      {
+        "role": "assistant",
+        "content": "Indien een administratief verzuim langer dan tien weken duurt, wordt het verzuim als een overtreding aangemerkt en stelt het desbetreffende bestuur de zaak in handen van de Tuchtcommissie."
+      }
+    ]
+  },
+  {
+    "id": "completion364",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat houdt de ledenplicht precies in?"
+      },
+      {
+        "role": "assistant",
+        "content": "De ledenplicht houdt in dat leden de statuten en reglementen moeten volgen, de belangen van de organisatie moeten respecteren, en alle andere verplichtingen die voortkomen uit de afspraken moeten naleven."
+      }
+    ]
+  },
+  {
+    "id": "completion177",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het proces om lid te worden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Je moet een aanvraag indienen en voldoen aan de voorwaarden."
+      }
+    ]
+  },
+  {
+    "id": "completion450",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie stelt het maximum bedrag vast van de aan een afdeling te verstrekken geldlening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het bondsbestuur stelt na advies van de financiële commissie het maximum bedrag vast van de aan een afdeling te verstrekken geldlening."
+      }
+    ]
+  },
+  {
+    "id": "completion304",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat wordt er bedoeld met een 'schuilplek' in de statuten?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een schuilplek kan een accukist, broeibak, gasflessenkist, gereedschapskist, kweekkas, pergola, schuur, tuinhuis, (t.v.-)antenne, windscherm of zonnepaneel zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion236",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat houdt 'algemeen werk' precies in bij de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Algemeen werk bestaat uit taken die door de afdelingsvergadering worden vastgesteld en die door de leden van een afdeling moeten worden verricht voor het tuinpark."
+      }
+    ]
+  },
+  {
+    "id": "completion410",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kunnen niet-leden deel uitmaken van het bondsbestuur?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ja, het bondsbestuur kan bestaan uit leden en niet-leden, maar het aantal niet-leden mag niet meer dan de helft van het aantal bestuursleden zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion363",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe worden de verantwoordelijkheden van leden gedefinieerd?"
+      },
+      {
+        "role": "assistant",
+        "content": "De verantwoordelijkheden van leden zijn het naleven van de statuten, regels en besluiten, het beschermen van de belangen van de organisatie, en het voldoen aan alle overige verplichtingen."
+      }
+    ]
+  },
+  {
+    "id": "completion322",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de definitie van een 'opbouw' volgens deze regels?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een opbouw omvat een accukist, broeibak, gasflessenkist, gereedschapskist, kweekkas, pergola, schuur, tuinhuis, (t.v.-)antenne, windscherm of zonnepaneel."
+      }
+    ]
+  },
+  {
+    "id": "completion390",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat moet een lid doen als zijn lidmaatschap eindigt?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bij beëindiging van het lidmaatschap moet het lid de tuin in goede staat en met inachtneming van de reglementen ter beschikking stellen aan de bond."
+      }
+    ]
+  },
+  {
+    "id": "completion248",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe lang duurt een benoeming voor een functie binnen de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een benoeming voor elke functie in de bond geschiedt voor een periode van drie jaren."
+      }
+    ]
+  },
+  {
+    "id": "completion505",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de minimale binnenhoogte die vereist is in de woon- en slaapkamers van een tuinhuis?"
+      },
+      {
+        "role": "assistant",
+        "content": "De binnenhoogte tussen vloer en plafond moet minimaal 2,20 meter bedragen."
+      }
+    ]
+  },
+  {
+    "id": "completion166",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de stappen voor lidmaatschap bij de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De stappen voor lidmaatschap bij de vereniging zijn het indienen van een aanvraag en het voldoen aan de criteria voor lidmaatschap."
+      }
+    ]
+  },
+  {
+    "id": "completion515",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoeveel vrije hoogte moet er zijn in de woon- en slaapkamers van een tuinhuis?"
+      },
+      {
+        "role": "assistant",
+        "content": "Er moet minimaal 220 centimeter vrije hoogte zijn tussen vloer en plafond."
+      }
+    ]
+  },
+  {
+    "id": "completion27",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat probeert deze vereniging te bereiken?"
+      },
+      {
+        "role": "assistant",
+        "content": "Deze vereniging probeert het tuinieren te bevorderen en biedt faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion369",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat moeten leden doen om aan hun verplichtingen te voldoen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Om aan hun verplichtingen te voldoen, moeten leden de statuten en reglementen naleven, de belangen van de organisatie respecteren, en alle andere overeengekomen verplichtingen vervullen."
+      }
+    ]
+  },
+  {
+    "id": "completion285",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de taak van de financiële commissie?"
+      },
+      {
+        "role": "assistant",
+        "content": "De financiële commissie is de commissie die het bondsbestuur en de afdelingsbesturen in financiële aangelegenheden adviseert."
+      }
+    ]
+  },
+  {
+    "id": "completion358",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de eisen die aan de leden worden gesteld?"
+      },
+      {
+        "role": "assistant",
+        "content": "De leden moeten de statuten, regels en besluiten naleven, de belangen van de vereniging beschermen, en alle overige verplichtingen die zijn vastgelegd accepteren en nakomen."
+      }
+    ]
+  },
+  {
+    "id": "completion433",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Voor welke doeleinden kan een geldlening aan een lid worden verstrekt?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een geldlening kan alleen worden verstrekt voor de aankoop, overname, (zelf)bouw of verbouwing van een bouwsel, zoals een tuinhuisje, kas of schuur."
+      }
+    ]
+  },
+  {
+    "id": "completion240",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de aard van 'algemeen werk' binnen de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Algemeen werk zijn de door afdelingsvergaderingen goedgekeurde taken die door de afdelingleden moeten worden uitgevoerd voor het tuinpark."
+      }
+    ]
+  },
+  {
+    "id": "completion145",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt iemand geaccepteerd als lid van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Iemand wordt geaccepteerd als lid van de vereniging door een aanvraag in te dienen en te voldoen aan de lidmaatschapscriteria."
+      }
+    ]
+  },
+  {
+    "id": "completion242",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de verantwoordelijkheden van leden onder 'algemeen werk'?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leden moeten de door afdelingsvergaderingen vastgestelde taken uitvoeren ten behoeve van het tuinpark."
+      }
+    ]
+  },
+  {
+    "id": "completion45",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het adres van VTV Water-Land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het adres van VTV Water-Land is te vinden op de contactpagina van de website."
+      }
+    ]
+  },
+  {
+    "id": "completion291",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de functie van de commissie van goede diensten?"
+      },
+      {
+        "role": "assistant",
+        "content": "De commissie van goede diensten is een commissie van de bond die bemiddelt bij geschillen."
+      }
+    ]
+  },
+  {
+    "id": "completion25",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het hoofddoel van deze vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het hoofddoel van deze vereniging is het bevorderen van tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion275",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat betekent 'woonadres' in deze situatie?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het woonadres is de vaste woon- en verblijfplaats van een lid, geregistreerd naar postcode en huisnummer en - waar van toepassing - aangevuld met etagenummer of appartementsnummer."
+      }
+    ]
+  },
+  {
+    "id": "completion113",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat staat er op de agenda van de jaarlijkse vergadering van leden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Op de agenda van de jaarlijkse vergadering van leden staan het jaarverslag, de begroting, en beleidsplannen die besproken en goedgekeurd worden."
+      }
+    ]
+  },
+  {
+    "id": "completion445",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de procedure als een lid een geldlening wil aanvragen voor verbouw of zelfbouw van een bouwsel?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bij verbouw of zelfbouw is het lid verplicht voor een door zijn afdelingsbestuur te bepalen duur van de bouw of de verbouwing een derde als borg te stellen. De borgtocht wordt geregeld in een afzonderlijke tussen het bondsbestuur en de borg te sluiten overeenkomst."
+      }
+    ]
+  },
+  {
+    "id": "completion137",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt iemand lid van de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Iemand wordt lid van de tuinvereniging door een aanvraag in te dienen en te voldoen aan de lidmaatschapscriteria."
+      }
+    ]
+  },
+  {
+    "id": "completion73",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de veiligheidsmaatregelen bij de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De veiligheidsmaatregelen bij de vereniging zijn bedoeld om de veiligheid van alle leden te waarborgen."
+      }
+    ]
+  },
+  {
+    "id": "completion173",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de stappen voor een nieuw lid om te beginnen bij de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een nieuw lid moet een aanvraag indienen en voldoen aan de benodigde voorwaarden."
+      }
+    ]
+  },
+  {
+    "id": "completion199",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de voorwaarden voor lidmaatschap bij de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De voorwaarden voor lidmaatschap bij de tuinvereniging zijn het indienen van een aanvraag en voldoen aan de criteria voor lidmaatschap."
+      }
+    ]
+  },
+  {
+    "id": "completion315",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat houdt een 'constructie' in volgens de statuten?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een constructie kan een accukist, broeibak, gasflessenkist, gereedschapskist, kweekkas, pergola, schuur, tuinhuis, (t.v.-)antenne, windscherm of zonnepaneel zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion51",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is een werkbeurt bij VTV Water-Land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een werkbeurt is een verplichte onderhoudsdag waarbij leden gezamenlijk werken aan het tuincomplex."
+      }
+    ]
+  },
+  {
+    "id": "completion444",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke informatie verstrekt het bondsbestuur jaarlijks aan de afdelingsbesturen over geldleningen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het bondsbestuur verstrekt jaarlijks in de maand juni en na een mutatie van het penningmeesterschap een overzicht aan de afdelingsbesturen, waarop zijn vermeld de leden van de afdeling aan wie een nog niet afgeloste geldlening is verstrekt met vermelding van het saldo van elke geldlening."
+      }
+    ]
+  },
+  {
+    "id": "completion252",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie zijn 'niet-leden' volgens de statuten?"
+      },
+      {
+        "role": "assistant",
+        "content": "Niet-leden zijn partners, ouders, kinderen, aspiranten en andere personen die geen lid van de bond zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion18",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de visie van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De visie van de vereniging is het bevorderen van tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion471",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe lang geldt het vastgestelde rentepercentage voor een geldlening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het in het jaar waarin de geldlening wordt verstrekt vastgestelde rentepercentage geldt voor de volledige looptijd van de lening."
+      }
+    ]
+  },
+  {
+    "id": "completion334",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt de organisatiestructuur van de Bond van Volkstuinders beschreven?"
+      },
+      {
+        "role": "assistant",
+        "content": "De bond kent een bondsbestuur dat leiding geeft aan de bond en verantwoording aflegt aan de bondsvergadering. De bond kent afdelingen, waarbij ieder tuinpark een afdeling vormt. De bondsvergadering bestaat uit afgevaardigden van de afdelingen."
+      }
+    ]
+  },
+  {
+    "id": "completion103",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat gebeurt er tijdens de jaarlijkse bijeenkomst van leden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tijdens de jaarlijkse bijeenkomst van leden worden het jaarverslag, de begroting, en beleidsplannen besproken en goedgekeurd."
+      }
+    ]
+  },
+  {
+    "id": "completion435",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke extra verplichting geldt er voor een lid dat gehuwd is of een samenlevingscontract heeft bij het aanvragen van een geldlening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Indien een lid gehuwd is dan wel met zijn partner een samenlevingscontract heeft gesloten, wordt een geldlening alleen verstrekt indien de partner zich naast het lid mede hoofdelijk verbindt tot nakoming van de uit de overeenkomst van geldlening voortvloeiende, ondeelbare verplichtingen."
+      }
+    ]
+  },
+  {
+    "id": "completion361",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke regels moeten leden volgen volgens de statuten?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leden moeten de statuten, reglementen en besluiten volgen, de belangen van de organisatie niet schaden, en alle andere verplichtingen die de organisatie aangaat respecteren."
+      }
+    ]
+  },
+  {
+    "id": "completion392",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat gebeurt er als een lid zijn bouwsels en opstallen niet heeft verkocht of overgedragen bij beëindiging van het lidmaatschap?"
+      },
+      {
+        "role": "assistant",
+        "content": "Als een lid zijn bouwsels en opstallen niet heeft verkocht of overgedragen, moet hij de tuin geheel ontruimd, ontdaan van alle bouwsels en beplantingen, als schone tuingrond aan het afdelingsbestuur ter beschikking stellen."
+      }
+    ]
+  },
+  {
+    "id": "completion46",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de lidmaatschapskosten bij VTV Water-Land?"
+      },
+      {
+        "role": "assistant",
+        "content": "De lidmaatschapskosten variëren per type lidmaatschap en zijn gedetailleerd te vinden op de website onder het kopje 'Lidmaatschap'."
+      }
+    ]
+  },
+  {
+    "id": "completion442",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe worden de administratiekosten voor overtredingen vastgesteld?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het desbetreffende bestuur stelt jaarlijks voor elk verzuim het bedrag aan administratiekosten (boetes) vast en doet hiervan voor de aanvang van het seizoen mededeling in de officiële mededelingen."
+      }
+    ]
+  },
+  {
+    "id": "completion245",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat houdt de term 'algemeen werk' in de tuinclub in?"
+      },
+      {
+        "role": "assistant",
+        "content": "Algemeen werk zijn de door afdelingsvergaderingen vastgestelde taken die door de leden van een afdeling voor het tuinpark moeten worden uitgevoerd."
+      }
+    ]
+  },
+  {
+    "id": "completion56",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de belangrijkste commissies binnen VTV Water-Land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Belangrijke commissies zijn de tuinencommissie, onderhoudscommissie, en evenementencommissie."
+      }
+    ]
+  },
+  {
+    "id": "completion264",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat verstaat men onder 'woonadres' in deze context?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het woonadres is de vaste woon- en verblijfplaats van een lid, geregistreerd naar postcode en huisnummer en - waar van toepassing - aangevuld met etagenummer of appartementsnummer."
+      }
+    ]
+  },
+  {
+    "id": "completion43",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke commissies zijn er binnen VTV Water-Land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Er zijn commissies voor tuinzaken, onderhoud, evenementen, en communicatie."
+      }
+    ]
+  },
+  {
+    "id": "completion244",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de rol van 'algemeen werk' in de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het betreft de taken die worden vastgesteld door de afdelingsvergaderingen en die leden van een afdeling voor het tuinpark moeten uitvoeren."
+      }
+    ]
+  },
+  {
+    "id": "completion487",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het maximale leenbedrag voor een nieuw te bouwen tuinhuisje?"
+      },
+      {
+        "role": "assistant",
+        "content": "Voor een nieuw te bouwen tuinhuisje bedraagt de geldlening ten hoogste 80% van de bouwkosten met een maximum van € 5.000,00."
+      }
+    ]
+  },
+  {
+    "id": "completion180",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de vereisten voor een nieuw lid?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een aanvraag indienen en voldoen aan de lidmaatschapscriteria."
+      }
+    ]
+  },
+  {
+    "id": "completion35",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat wil deze tuinvereniging bereiken?"
+      },
+      {
+        "role": "assistant",
+        "content": "Deze tuinvereniging wil het tuinieren bevorderen en faciliteiten en ondersteuning aan haar leden bieden."
+      }
+    ]
+  },
+  {
+    "id": "completion469",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie stelt het rentepercentage vast voor geldleningen?"
+      },
+      {
+        "role": "assistant",
+        "content": "De bondsvergadering stelt jaarlijks het rentepercentage vast voor geldleningen die in dat kalenderjaar worden verstrekt."
+      }
+    ]
+  },
+  {
+    "id": "completion439",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn administratieve verzuimen volgens het reglement?"
+      },
+      {
+        "role": "assistant",
+        "content": "Administratieve verzuimen zijn: het niet of niet tijdig voldoen van verschuldigde gelden, het niet tijdig verschaffen van inlichtingen en gegevens aan een orgaan van de bond, en overtreding van bepaalde artikelen in het Tuinreglement, Bouwreglement en Huishoudelijk Reglement van de Afdeling."
+      }
+    ]
+  },
+  {
+    "id": "completion259",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat betekent 'woonadres' in deze context?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het woonadres is de vaste woon- en verblijfplaats van een lid, geregistreerd naar postcode en huisnummer en - waar van toepassing - aangevuld met etagenummer of appartementsnummer."
+      }
+    ]
+  },
+  {
+    "id": "completion319",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat valt onder een 'bouwstructuur' volgens de statuten?"
+      },
+      {
+        "role": "assistant",
+        "content": "Onder bouwstructuur vallen een accukist, broeibak, gasflessenkist, gereedschapskist, kweekkas, pergola, schuur, tuinhuis, (t.v.-)antenne, windscherm of zonnepaneel."
+      }
+    ]
+  },
+  {
+    "id": "completion356",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat moeten leden doen om te voldoen aan hun verplichtingen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leden moeten zich houden aan de statuten en reglementen, de belangen van de organisatie niet schaden, en alle aanvullende verplichtingen die zijn overeengekomen naleven."
+      }
+    ]
+  },
+  {
+    "id": "completion256",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de definitie van 'woonadres' in de context van de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het woonadres is de vaste woon- en verblijfplaats van een lid, geregistreerd naar postcode en huisnummer en - waar van toepassing - aangevuld met etagenummer of appartementsnummer."
+      }
+    ]
+  },
+  {
+    "id": "completion428",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie beheert het Bouw- en Solidariteitsfonds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het Bouw- en Solidariteitsfonds wordt beheerd door de penningmeester van de bond."
+      }
+    ]
+  },
+  {
+    "id": "completion188",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe kan iemand lid worden van de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Door een aanvraag in te dienen en te voldoen aan de gestelde voorwaarden."
+      }
+    ]
+  },
+  {
+    "id": "completion55",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de plichten van de leden van VTV Water-Land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leden hebben de plicht om deel te nemen aan werkbeurten, contributie te betalen, en zich aan de regels te houden."
+      }
+    ]
+  },
+  {
+    "id": "completion3",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het uiteindelijke doel van deze vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het uiteindelijke doel van de vereniging is het bevorderen van tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion297",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat wordt verstaan onder een 'orgaan' van de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een orgaan is de bondsvergadering, het bondsbestuur, het dagelijks bestuur, een afdelingsbestuur, een afdelingsvergadering, de tuchtcommissie en de commissie van beroep, alsmede die personen en commissies die op grond van de statuten door de bondsvergadering of door het bondsbestuur zijn belast met een nader omschreven taak en aan wie daarbij beslissingsbevoegdheid is toegekend."
+      }
+    ]
+  },
+  {
+    "id": "completion133",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie kunnen lid worden van de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leden van de Bond van Volkstuinders dienen meerderjarig te zijn en een vaste woon- of verblijfplaats in Nederland te hebben."
+      }
+    ]
+  },
+  {
+    "id": "completion17",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat wil deze vereniging bevorderen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Deze vereniging wil het tuinieren bevorderen en biedt faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion121",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat gebeurt er tijdens de jaarlijkse bijeenkomst van leden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tijdens de jaarlijkse bijeenkomst van leden worden het jaarverslag, de begroting, en beleidsplannen besproken en goedgekeurd."
+      }
+    ]
+  },
+  {
+    "id": "completion169",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de vereisten voor lidmaatschap bij de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De vereisten voor lidmaatschap bij de tuinvereniging omvatten het indienen van een aanvraag en voldoen aan de lidmaatschapscriteria."
+      }
+    ]
+  },
+  {
+    "id": "completion48",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat gebeurt er als je niet deelneemt aan een werkbeurt?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bij niet-deelname aan een werkbeurt wordt een boete van 50 euro opgelegd."
+      }
+    ]
+  },
+  {
+    "id": "completion112",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de belangrijkste agendapunten van de jaarlijkse ledenvergadering?"
+      },
+      {
+        "role": "assistant",
+        "content": "De belangrijkste agendapunten van de jaarlijkse ledenvergadering zijn het jaarverslag, de begroting, en beleidsplannen die worden besproken en goedgekeurd."
+      }
+    ]
+  },
+  {
+    "id": "completion326",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de definitie van 'beplanting' in de context van de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "Beplanting is elke plant, bloem, struik of boom die in een volkstuin is geworteld of op een nutstuin wordt verbouwd."
+      }
+    ]
+  },
+  {
+    "id": "completion499",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de minimale vrije binnenhoogte tussen vloer en plafond in de woon- en slaapkamer(s) van een tuinhuis?"
+      },
+      {
+        "role": "assistant",
+        "content": "De vrije binnenhoogte tussen vloer en plafond in de woon- en slaapkamer(s) moet ten minste 2,20 m bedragen."
+      }
+    ]
+  },
+  {
+    "id": "completion77",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke veiligheidsmaatregelen worden genomen bij de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bij de tuinvereniging worden veiligheidsmaatregelen genomen om de veiligheid van alle leden te garanderen."
+      }
+    ]
+  },
+  {
+    "id": "completion302",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt 'tuinhuisje' gedefinieerd in de statuten?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een tuinhuisje omvat een accukist, broeibak, gasflessenkist, gereedschapskist, kweekkas, pergola, schuur, tuinhuis, (t.v.-)antenne, windscherm of zonnepaneel."
+      }
+    ]
+  },
+  {
+    "id": "completion314",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt een 'tuinstructuur' gedefinieerd in de statuten?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een tuinstructuur kan bestaan uit een accukist, broeibak, gasflessenkist, gereedschapskist, kweekkas, pergola, schuur, tuinhuis, (t.v.-)antenne, windscherm of zonnepaneel."
+      }
+    ]
+  },
+  {
+    "id": "completion453",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie is bevoegd om administratiekosten in rekening te brengen voor administratieve verzuimen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het afdelingsbestuur is bevoegd om administratiekosten in rekening te brengen voor administratieve verzuimen."
+      }
+    ]
+  },
+  {
+    "id": "completion170",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt iemand als nieuw lid verwelkomd bij de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Iemand wordt als nieuw lid verwelkomd door een aanvraag te indienen en te voldoen aan de gestelde voorwaarden voor lidmaatschap."
+      }
+    ]
+  },
+  {
+    "id": "completion503",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoeveel ruimte moet er minimaal zijn tussen de vloer en het plafond in de woon- en slaapkamers van een tuinhuis?"
+      },
+      {
+        "role": "assistant",
+        "content": "Er moet minimaal 2,20 meter tussen de vloer en het plafond zijn in de woon- en slaapkamers."
+      }
+    ]
+  },
+  {
+    "id": "completion60",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de veiligheidsrichtlijnen bij de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "De veiligheidsrichtlijnen bij de vereniging zijn erop gericht om een veilige omgeving voor alle leden te waarborgen."
+      }
+    ]
+  },
+  {
+    "id": "completion83",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het calamiteitenplan van VTV Water-Land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het calamiteitenplan beschrijft de stappen die moeten worden genomen bij verschillende noodsituaties, inclusief contactinformatie en noodprocedures."
+      }
+    ]
+  },
+  {
+    "id": "completion519",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de minimale hoogte in de woon- en slaapkamers van een tuinhuis volgens de regels?"
+      },
+      {
+        "role": "assistant",
+        "content": "De minimale hoogte tussen vloer en plafond is 2,20 meter."
+      }
+    ]
+  },
+  {
+    "id": "completion205",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat zijn de belangrijkste organen van de Bond van Volkstuinders?"
+      },
+      {
+        "role": "assistant",
+        "content": "De belangrijkste organen van de Bond van Volkstuinders zijn het bondsbestuur, de bondsvergadering, de afdelingsbesturen, de afdelingsvergaderingen, de tuchtcommissie en de commissie van beroep."
+      }
+    ]
+  },
+  {
+    "id": "completion201",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe kan iemand worden toegelaten als lid van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Iemand kan worden toegelaten als lid van de vereniging door een aanvraag in te dienen en te voldoen aan de lidmaatschapscriteria."
+      }
+    ]
+  },
+  {
+    "id": "completion97",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe kan een lid deelnemen aan een bestuursvergadering?"
+      },
+      {
+        "role": "assistant",
+        "content": "Een lid kan deelnemen aan een bestuursvergadering door een uitnodiging te ontvangen of door toestemming te vragen aan het bestuur."
+      }
+    ]
+  },
+  {
+    "id": "completion68",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke veiligheidsrichtlijnen zijn er bij de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bij de vereniging zijn er veiligheidsrichtlijnen om de veiligheid van alle tuinierende leden te waarborgen."
+      }
+    ]
+  },
+  {
+    "id": "completion148",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt iemand als nieuw lid verwelkomd bij de tuinvereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Iemand wordt als nieuw lid verwelkomd door een aanvraag in te dienen en te voldoen aan de gestelde voorwaarden voor lidmaatschap."
+      }
+    ]
+  },
+  {
+    "id": "completion357",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat houdt de verplichting van leden in?"
+      },
+      {
+        "role": "assistant",
+        "content": "De verplichtingen van leden omvatten het naleven van de statuten en reglementen, het beschermen van de belangen van de organisatie, en het voldoen aan alle andere afgesproken verplichtingen."
+      }
+    ]
+  },
+  {
+    "id": "completion455",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is de maximale periode waarvoor administratiekosten in rekening kunnen worden gebracht?"
+      },
+      {
+        "role": "assistant",
+        "content": "Administratiekosten kunnen in rekening worden gebracht tot een maximum van dertien weken."
+      }
+    ]
+  },
+  {
+    "id": "completion24",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat wil de vereniging bevorderen?"
+      },
+      {
+        "role": "assistant",
+        "content": "De vereniging wil het tuinieren bevorderen en biedt faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  },
+  {
+    "id": "completion423",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wanneer is een lid geen rente verschuldigd over een verstrekte lening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het lid is geen rente verschuldigd wanneer aan hem een lening wordt verstrekt voor een bouwsel dat dient te worden verplaatst of herbouwd als gevolg van de opheffing of verplaatsing van een tuinpark."
+      }
+    ]
+  },
+  {
+    "id": "completion506",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoeveel vrije hoogte is nodig in de woon- en slaapkamers van een tuinhuis?"
+      },
+      {
+        "role": "assistant",
+        "content": "De vrije hoogte tussen vloer en plafond moet minimaal 220 centimeter zijn."
+      }
+    ]
+  },
+  {
+    "id": "completion183",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe wordt iemand ingeschreven als lid van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Door een aanvraag te doen en te voldoen aan de vereisten."
+      }
+    ]
+  },
+  {
+    "id": "completion359",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke verantwoordelijkheden hebben de leden van de organisatie?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leden moeten zich houden aan de statuten en reglementen, de belangen van de organisatie respecteren, en alle overige verplichtingen die voortkomen uit de afspraken naleven."
+      }
+    ]
+  },
+  {
+    "id": "completion270",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat houdt het begrip 'woonadres' in dit geval in?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het woonadres is de vaste woon- en verblijfplaats van een lid, geregistreerd naar postcode en huisnummer en - waar van toepassing - aangevuld met etagenummer of appartementsnummer."
+      }
+    ]
+  },
+  {
+    "id": "completion366",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welke verplichtingen zijn er voor de leden van de groep?"
+      },
+      {
+        "role": "assistant",
+        "content": "De verplichtingen omvatten het naleven van de statuten, reglementen en besluiten, het respecteren van de belangen van de organisatie, en het nakomen van alle andere overeengekomen verplichtingen."
+      }
+    ]
+  },
+  {
+    "id": "completion86",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hoe vaak vinden er veiligheidsinspecties plaats op het tuincomplex?"
+      },
+      {
+        "role": "assistant",
+        "content": "Veiligheidsinspecties vinden jaarlijks plaats om te zorgen voor een veilige omgeving voor alle leden."
+      }
+    ]
+  },
+  {
+    "id": "completion10",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wat is het hoofddoel van de vereniging?"
+      },
+      {
+        "role": "assistant",
+        "content": "Het hoofddoel van de vereniging is het bevorderen van tuinieren en het bieden van faciliteiten en ondersteuning aan haar leden."
+      }
+    ]
+  }
+]
