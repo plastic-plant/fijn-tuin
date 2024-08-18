@@ -1,13 +1,15 @@
-**Fijn-tuin 🏡**  _(Dutch for “nice garden”)_ is a fine-tune on [Mistral 7B](https://mistral.ai), answering questions on gardening club regulation. Trained on base model [GEITJEtje 7B](https://github.com/Rijgersberg/GEITje) by [Edwin Rijgersberg](https://goingdutch.ai/nl/), the merged model returns Dutch language with adjusted weights favouring answers likely to come up in a conversation completing Q&A of an Amsterdam based garden association.
+**Fijn-tuin 🏡**  _(Dutch for “nice garden”)_ is a fine-tune on [Mistral 7B](https://mistral.ai), answering questions on gardening club regulation. Trained on base model [GEITJEtje 7B](https://github.com/Rijgersberg/GEITje) by [Edwin Rijgersberg](https://goingdutch.ai/nl/), this merged model returns Dutch language with adjusted weights favouring answers likely to come up in a conversation completing Q&A of an Amsterdam garden association.
 
 ```text
   > python 2-infer.py
-```
-```text
+
   Example generated response:
 
-  JIJ:  Hoeveel gasflessen zijn maximaal toegestaan op een volkstuinpark met vergunning om te overnachten?
-  LLM:  Op een volkstuinpark met vergunning om te overnachten zijn maximaal 2 gasflessen toegestaan.
+    JIJ:  Hoeveel gasflessen zijn maximaal toegestaan op een volkstuinpark met vergunning om te overnachten?
+    LLM:  Op een volkstuinpark met vergunning om te overnachten zijn maximaal 2 gasflessen toegestaan.
+
+    JIJ: stop
+    LLM: Tot ziens!
 ```
 
 While generally a fine-tune (on a dataset this size) is not for knowledge injection, here's an example that does just that. The result is a compact model that can infer given information without additional prompting, allowing us to keep context small during inference. Base model is a full-parameter finetune of Mistral on Dutch text. On top of that an adapter is created and saved, and a full merged model is exported. We can swap out the adapter and test, revert to a previous version or push the merged model.
