@@ -42,25 +42,25 @@ from peft import PeftModel
 from enum import Enum
 
 class LoadingOption(Enum):
-    OPTION_A_LoadBaseModelOnly = 1
-    OPTION_B_LoadBaseModelAndApater = 2
-    OPTION_C_LoadMergedModel = 3
+    OPTION_1_LoadBaseModelOnly = 1
+    OPTION_2_LoadBaseModelAndAdapter = 2
+    OPTION_3_LoadMergedModel = 3
 
 
 def load_model(loading_option):
     # Load the base model without fine-tuned adapter.
-    if loading_option == LoadingOption.OPTION_A_LoadBaseModelOnly:
+    if loading_option == LoadingOption.OPTION_1_LoadBaseModelOnly:
         model = AutoModelForCausalLM.from_pretrained('Rijgersberg/GEITje-7B-chat-v2', torch_dtype=torch.bfloat16, low_cpu_mem_usage=True, device_map='auto')
         tokenizer = AutoTokenizer.from_pretrained('Rijgersberg/GEITje-7B-chat-v2')
 
     # Load the base model with fine-tuned adapter.
-    elif loading_option == LoadingOption.OPTION_B_LoadBaseModelAndApater:
+    elif loading_option == LoadingOption.OPTION_2_LoadBaseModelAndAdapter:
         base_model = AutoModelForCausalLM.from_pretrained('Rijgersberg/GEITje-7B-chat-v2', torch_dtype=torch.bfloat16, low_cpu_mem_usage=True, device_map='auto')
         tokenizer = AutoTokenizer.from_pretrained('./model/adapter')
         model = PeftModel.from_pretrained(base_model, './model/adapter')
 
     # Load the merged model.
-    elif loading_option == LoadingOption.OPTION_C_LoadMergedModel:
+    elif loading_option == LoadingOption.OPTION_3_LoadMergedModel:
         model = AutoModelForCausalLM.from_pretrained('./model/full', torch_dtype=torch.bfloat16, low_cpu_mem_usage=True, device_map='auto')
         tokenizer = AutoTokenizer.from_pretrained('./model/full')
 
@@ -88,10 +88,12 @@ def chat(user_input):
     return generate(conversation)
 
 
+# -----------------------------------------------------------------------------------------------
+#
 # Choose an option to load the base model, adapater or merged model.
 os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
 start_time = time.time()
-loading_option = LoadingOption.OPTION_C_LoadMergedModel
+loading_option = LoadingOption.OPTION_2_LoadBaseModelAndAdapter # <------------------------------
 model, tokenizer = load_model(loading_option)
 print(f"Loading model time taken: {round(time.time() - start_time)}s")
 
